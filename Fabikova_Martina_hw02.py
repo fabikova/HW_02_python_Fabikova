@@ -13,36 +13,12 @@ with open("netflix_titles.tsv", mode="r", encoding="utf-8") as netflix_titles:
 
         movie_dict = {}  # slovník pre každý film
 
-        # tie indexy som mohla mať aj takto:
-        # l = ['1', '2', '3']
-        # b_column = l.index('b')
-        # l [b_column]
-        # získanie hodnôt z príslušných indexov
         title = value_movie[2]  # PRIMARYTITLE
         directors = value_movie[15]  # DIRECTOR
         cast = value_movie[16]  # CAST
         genres = value_movie[8]  # GENRES
         start_year = value_movie[5]  # STARTYEAR
 
-        # priradenie hodnôt do slovníka ku jednotlivým kľúčom
-        #movie_dict['title'] = title
-
-        # rozdelenie reťazcov na zoznamy podľa čiarky ak reťazec existuje, priradenie hodnôt do slovníka
-        
-        # if directors:
-        #     movie_dict['directors'] = directors.split(', ')
-        # else:
-        #     movie_dict['directors'] = []
-
-        # if cast:
-        #     movie_dict['cast'] = cast.split(', ')
-        # else:
-        #     movie_dict['cast'] = []
-
-        # if genres:
-        #     movie_dict['genres'] = genres.split(', ')
-        # else:
-        #     movie_dict['genres'] = []
 
         def dictionary_add(movie_dict, key, value):
             movie_dict[key] = value.split(', ') if value else []
