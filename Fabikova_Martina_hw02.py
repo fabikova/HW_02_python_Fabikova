@@ -13,6 +13,10 @@ with open("netflix_titles.tsv", mode="r", encoding="utf-8") as netflix_titles:
 
         movie_dict = {}  # slovník pre každý film
 
+        # tie indexy som mohla mať aj takto:
+        # l = ['1', '2', '3']
+        # b_column = l.index('b')
+        # l [b_column]
         # získanie hodnôt z príslušných indexov
         title = value_movie[2]  # PRIMARYTITLE
         directors = value_movie[15]  # DIRECTOR
@@ -21,26 +25,36 @@ with open("netflix_titles.tsv", mode="r", encoding="utf-8") as netflix_titles:
         start_year = value_movie[5]  # STARTYEAR
 
         # priradenie hodnôt do slovníka ku jednotlivým kľúčom
-        movie_dict['title'] = title
+        #movie_dict['title'] = title
 
         # rozdelenie reťazcov na zoznamy podľa čiarky ak reťazec existuje, priradenie hodnôt do slovníka
-        if directors:
-            movie_dict['directors'] = directors.split(', ')
-        else:
-            movie_dict['directors'] = []
+        
+        # if directors:
+        #     movie_dict['directors'] = directors.split(', ')
+        # else:
+        #     movie_dict['directors'] = []
 
-        if cast:
-            movie_dict['cast'] = cast.split(', ')
-        else:
-            movie_dict['cast'] = []
+        # if cast:
+        #     movie_dict['cast'] = cast.split(', ')
+        # else:
+        #     movie_dict['cast'] = []
 
-        if genres:
-            movie_dict['genres'] = genres.split(', ')
-        else:
-            movie_dict['genres'] = []
+        # if genres:
+        #     movie_dict['genres'] = genres.split(', ')
+        # else:
+        #     movie_dict['genres'] = []
+
+        def dictionary_add(movie_dict, key, value):
+            movie_dict[key] = value.split(', ') if value else []
+
+        # Použitie funkcie dictionary_add na pridanie hodnôt do slovníka
+        dictionary_add(movie_dict, 'title', title)
+        dictionary_add(movie_dict, 'directors', directors)
+        dictionary_add(movie_dict, 'cast', cast)
+        dictionary_add(movie_dict, 'genres', genres)
 
         # prepočet rokov na desaťročia, priradenie hodnôt do slovníka
-        if start_year.isdigit():
+        if start_year:
             start_year_int = int(start_year)
             movie_dict['decade'] = math.floor(start_year_int / 10) * 10
         else:

@@ -1,6 +1,8 @@
 [
     {
-        "title": "Along Came a Spider",
+        "title": [
+            "Along Came a Spider"
+        ],
         "directors": [
             "Lee Tamahori"
         ],
@@ -23,7 +25,9 @@
         "decade": 2000
     },
     {
-        "title": "The Waterboy",
+        "title": [
+            "The Waterboy"
+        ],
         "directors": [
             "Frank Coraci"
         ],
@@ -45,7 +49,9 @@
         "decade": 1990
     },
     {
-        "title": "Power Rangers Turbo",
+        "title": [
+            "Power Rangers Turbo"
+        ],
         "directors": [],
         "cast": [
             "Johnny Yong Bosch",
@@ -70,7 +76,9 @@
         "decade": 1990
     },
     {
-        "title": "Kurt & Courtney",
+        "title": [
+            "Kurt & Courtney"
+        ],
         "directors": [
             "Nick Broomfield"
         ],
@@ -84,7 +92,9 @@
         "decade": 1990
     },
     {
-        "title": "Wet Hot American Summer",
+        "title": [
+            "Wet Hot American Summer"
+        ],
         "directors": [
             "David Wain"
         ],
@@ -112,7 +122,9 @@
         "decade": 2000
     },
     {
-        "title": "The Ryan White Story",
+        "title": [
+            "The Ryan White Story"
+        ],
         "directors": [
             "John Herzfeld"
         ],
@@ -132,7 +144,9 @@
         "decade": 1980
     },
     {
-        "title": "Rajnigandha",
+        "title": [
+            "Rajnigandha"
+        ],
         "directors": [
             "Basu Chatterjee"
         ],
@@ -150,7 +164,9 @@
         "decade": 1970
     },
     {
-        "title": "No Entry",
+        "title": [
+            "No Entry"
+        ],
         "directors": [
             "Anees Bazmee"
         ],
@@ -170,7 +186,9 @@
         "decade": 2000
     },
     {
-        "title": "The Twins Effect II",
+        "title": [
+            "The Twins Effect II"
+        ],
         "directors": [
             "Corey Yuen",
             "Patrick Leung"
@@ -195,7 +213,9 @@
         "decade": 2000
     },
     {
-        "title": "On the Wrong Track",
+        "title": [
+            "On the Wrong Track"
+        ],
         "directors": [
             "Clarence Yiu-leung Fok"
         ],
@@ -214,7 +234,9 @@
         "decade": 1980
     },
     {
-        "title": "Wazir",
+        "title": [
+            "Wazir"
+        ],
         "directors": [
             "Bejoy Nambiar"
         ],
@@ -232,7 +254,9 @@
         "decade": 2010
     },
     {
-        "title": "Kingpin",
+        "title": [
+            "Kingpin"
+        ],
         "directors": [
             "Peter Farrelly",
             "Bobby Farrelly"
@@ -253,7 +277,9 @@
         "decade": 1990
     },
     {
-        "title": "John Carter",
+        "title": [
+            "John Carter"
+        ],
         "directors": [
             "Andrew Stanton"
         ],
@@ -303,7 +329,9 @@
         "decade": 2010
     },
     {
-        "title": "Nang Nak",
+        "title": [
+            "Nang Nak"
+        ],
         "directors": [
             "Nonzee Nimibutr"
         ],
@@ -317,7 +345,9 @@
         "decade": 1990
     },
     {
-        "title": "National Treasure",
+        "title": [
+            "National Treasure"
+        ],
         "directors": [
             "Jon Turteltaub"
         ],
@@ -336,7 +366,9 @@
         "decade": 2000
     },
     {
-        "title": "Ram Teri Ganga Maili",
+        "title": [
+            "Ram Teri Ganga Maili"
+        ],
         "directors": [
             "Raj Kapoor"
         ],
@@ -356,7 +388,9 @@
         "decade": 1980
     },
     {
-        "title": "Ferris Bueller's Day Off",
+        "title": [
+            "Ferris Bueller's Day Off"
+        ],
         "directors": [
             "John Hughes"
         ],
@@ -380,7 +414,9 @@
         "decade": 1980
     },
     {
-        "title": "Lal Patthar",
+        "title": [
+            "Lal Patthar"
+        ],
         "directors": [
             "Sushil Majumdar"
         ],
@@ -402,7 +438,9 @@
         "decade": 1970
     },
     {
-        "title": "Monty Python's Life of Brian",
+        "title": [
+            "Monty Python's Life of Brian"
+        ],
         "directors": [
             "Terry Jones"
         ],
@@ -422,7 +460,9 @@
         "decade": 1970
     },
     {
-        "title": "Event Horizon",
+        "title": [
+            "Event Horizon"
+        ],
         "directors": [
             "Paul W.S. Anderson"
         ],
@@ -442,7 +482,9 @@
         "decade": 1990
     },
     {
-        "title": "Starsky & Hutch",
+        "title": [
+            "Starsky & Hutch"
+        ],
         "directors": [
             "Todd Phillips"
         ],
@@ -464,7 +506,9 @@
         "decade": 2000
     },
     {
-        "title": "The Brothers Grimm",
+        "title": [
+            "The Brothers Grimm"
+        ],
         "directors": [
             "Terry Gilliam"
         ],
@@ -488,7 +532,9 @@
         "decade": 2000
     },
     {
-        "title": "Deewangee",
+        "title": [
+            "Deewangee"
+        ],
         "directors": [
             "Anees Bazmee"
         ],
@@ -505,7 +551,9 @@
         "decade": 2000
     },
     {
-        "title": "Hera Pheri",
+        "title": [
+            "Hera Pheri"
+        ],
         "directors": [
             "Prakash Mehra"
         ],
@@ -525,7 +573,9 @@
         "decade": 1970
     },
     {
-        "title": "An American Tail",
+        "title": [
+            "An American Tail"
+        ],
         "directors": [
             "Don Bluth"
         ],
@@ -547,7 +597,9 @@
         "decade": 1980
     },
     {
-        "title": "Power Rangers Zeo",
+        "title": [
+            "Power Rangers Zeo"
+        ],
         "directors": [],
         "cast": [
             "Catherine Sutherland",
@@ -572,7 +624,9 @@
         "decade": 1990
     },
     {
-        "title": "True Grit",
+        "title": [
+            "True Grit"
+        ],
         "directors": [
             "Henry Hathaway"
         ],
@@ -593,7 +647,9 @@
         "decade": 1960
     },
     {
-        "title": "Gigi",
+        "title": [
+            "Gigi"
+        ],
         "directors": [
             "Vincente Minnelli",
             "Charles Walters"
@@ -616,7 +672,9 @@
         "decade": 1950
     },
     {
-        "title": "The Squid and the Whale",
+        "title": [
+            "The Squid and the Whale"
+        ],
         "directors": [
             "Noah Baumbach"
         ],
@@ -638,7 +696,9 @@
         "decade": 2000
     },
     {
-        "title": "War",
+        "title": [
+            "War"
+        ],
         "directors": [
             "Philip G. Atwell"
         ],
@@ -664,7 +724,9 @@
         "decade": 2000
     },
     {
-        "title": "Miracle",
+        "title": [
+            "Miracle"
+        ],
         "directors": [
             "Gavin O'Connor"
         ],
@@ -697,7 +759,9 @@
         "decade": 2000
     },
     {
-        "title": "Billy Elliot",
+        "title": [
+            "Billy Elliot"
+        ],
         "directors": [
             "Stephen Daldry"
         ],
@@ -725,7 +789,9 @@
         "decade": 2000
     },
     {
-        "title": "Mandi",
+        "title": [
+            "Mandi"
+        ],
         "directors": [
             "Shyam Benegal"
         ],
@@ -746,7 +812,9 @@
         "decade": 1980
     },
     {
-        "title": "Cat on a Hot Tin Roof",
+        "title": [
+            "Cat on a Hot Tin Roof"
+        ],
         "directors": [
             "Richard Brooks"
         ],
@@ -766,7 +834,9 @@
         "decade": 1950
     },
     {
-        "title": "Monster-in-Law",
+        "title": [
+            "Monster-in-Law"
+        ],
         "directors": [
             "Robert Luketic"
         ],
@@ -788,7 +858,9 @@
         "decade": 2000
     },
     {
-        "title": "Bobby",
+        "title": [
+            "Bobby"
+        ],
         "directors": [
             "Raj Kapoor"
         ],
@@ -809,7 +881,9 @@
         "decade": 1970
     },
     {
-        "title": "Just Friends",
+        "title": [
+            "Just Friends"
+        ],
         "directors": [
             "Roger Kumble"
         ],
@@ -831,7 +905,9 @@
         "decade": 2000
     },
     {
-        "title": "Next",
+        "title": [
+            "Next"
+        ],
         "directors": [
             "Lee Tamahori"
         ],
@@ -853,7 +929,9 @@
         "decade": 2000
     },
     {
-        "title": "Hustle & Flow",
+        "title": [
+            "Hustle & Flow"
+        ],
         "directors": [
             "Craig Brewer"
         ],
@@ -874,7 +952,9 @@
         "decade": 2000
     },
     {
-        "title": "The Dark Crystal",
+        "title": [
+            "The Dark Crystal"
+        ],
         "directors": [
             "Frank Oz",
             "Jim Henson"
@@ -896,7 +976,9 @@
         "decade": 1980
     },
     {
-        "title": "The In-Laws",
+        "title": [
+            "The In-Laws"
+        ],
         "directors": [
             "Andrew Fleming"
         ],
@@ -917,7 +999,9 @@
         "decade": 2000
     },
     {
-        "title": "Adam: His Song Continues",
+        "title": [
+            "Adam: His Song Continues"
+        ],
         "directors": [
             "Robert Markowitz"
         ],
@@ -934,7 +1018,9 @@
         "decade": 1980
     },
     {
-        "title": "The Bund",
+        "title": [
+            "The Bund"
+        ],
         "directors": [],
         "cast": [
             "Chow Yun Fat"
@@ -945,7 +1031,9 @@
         "decade": 1980
     },
     {
-        "title": "Pyaar Ke Side Effects",
+        "title": [
+            "Pyaar Ke Side Effects"
+        ],
         "directors": [
             "Saket Chaudhary"
         ],
@@ -967,7 +1055,9 @@
         "decade": 2000
     },
     {
-        "title": "Benji",
+        "title": [
+            "Benji"
+        ],
         "directors": [
             "Joe Camp"
         ],
@@ -985,7 +1075,9 @@
         "decade": 1970
     },
     {
-        "title": "Rocky V",
+        "title": [
+            "Rocky V"
+        ],
         "directors": [
             "John G. Avildsen"
         ],
@@ -1005,7 +1097,9 @@
         "decade": 1990
     },
     {
-        "title": "The Longest Yard",
+        "title": [
+            "The Longest Yard"
+        ],
         "directors": [
             "Robert Aldrich"
         ],
@@ -1030,7 +1124,9 @@
         "decade": 1970
     },
     {
-        "title": "Ocean's Thirteen",
+        "title": [
+            "Ocean's Thirteen"
+        ],
         "directors": [
             "Steven Soderbergh"
         ],
@@ -1052,7 +1148,9 @@
         "decade": 2000
     },
     {
-        "title": "Carrie",
+        "title": [
+            "Carrie"
+        ],
         "directors": [
             "David Carson"
         ],
@@ -1074,7 +1172,9 @@
         "decade": 2000
     },
     {
-        "title": "What Lies Beneath",
+        "title": [
+            "What Lies Beneath"
+        ],
         "directors": [
             "Robert Zemeckis"
         ],
@@ -1097,7 +1197,9 @@
         "decade": 2000
     },
     {
-        "title": "Charlie's Angels: Full Throttle",
+        "title": [
+            "Charlie's Angels: Full Throttle"
+        ],
         "directors": [
             "McG"
         ],
@@ -1122,7 +1224,11 @@
         "decade": 2000
     },
     {
-        "title": "Trikal (Past, Present, Future)",
+        "title": [
+            "Trikal (Past",
+            "Present",
+            "Future)"
+        ],
         "directors": [
             "Shyam Benegal"
         ],
@@ -1144,7 +1250,9 @@
         "decade": 1980
     },
     {
-        "title": "La Bamba",
+        "title": [
+            "La Bamba"
+        ],
         "directors": [
             "Luis Valdez"
         ],
@@ -1166,7 +1274,9 @@
         "decade": 1980
     },
     {
-        "title": "Hero",
+        "title": [
+            "Hero"
+        ],
         "directors": [
             "Corey Yuen"
         ],
@@ -1185,7 +1295,9 @@
         "decade": 1990
     },
     {
-        "title": "Pasión de Gavilanes",
+        "title": [
+            "Pasión de Gavilanes"
+        ],
         "directors": [],
         "cast": [
             "Danna García",
@@ -1207,7 +1319,9 @@
         "decade": 2000
     },
     {
-        "title": "Pardes",
+        "title": [
+            "Pardes"
+        ],
         "directors": [
             "Subhash Ghai"
         ],
@@ -1237,7 +1351,9 @@
         "decade": 1990
     },
     {
-        "title": "Final Destination 2",
+        "title": [
+            "Final Destination 2"
+        ],
         "directors": [
             "David R. Ellis"
         ],
@@ -1259,7 +1375,9 @@
         "decade": 2000
     },
     {
-        "title": "The Matrix",
+        "title": [
+            "The Matrix"
+        ],
         "directors": [
             "Lilly Wachowski",
             "Lana Wachowski"
@@ -1282,7 +1400,9 @@
         "decade": 1990
     },
     {
-        "title": "Power Rangers Mystic Force",
+        "title": [
+            "Power Rangers Mystic Force"
+        ],
         "directors": [],
         "cast": [
             "Firass Dirani",
@@ -1305,7 +1425,9 @@
         "decade": 2000
     },
     {
-        "title": "Rain Man",
+        "title": [
+            "Rain Man"
+        ],
         "directors": [
             "Barry Levinson"
         ],
@@ -1326,7 +1448,9 @@
         "decade": 1980
     },
     {
-        "title": "Carrie",
+        "title": [
+            "Carrie"
+        ],
         "directors": [
             "Brian De Palma"
         ],
@@ -1353,7 +1477,9 @@
         "decade": 1970
     },
     {
-        "title": "The River Wild",
+        "title": [
+            "The River Wild"
+        ],
         "directors": [
             "Curtis Hanson"
         ],
@@ -1374,7 +1500,9 @@
         "decade": 1990
     },
     {
-        "title": "The Pelican Brief",
+        "title": [
+            "The Pelican Brief"
+        ],
         "directors": [
             "Alan J. Pakula"
         ],
@@ -1397,7 +1525,9 @@
         "decade": 1990
     },
     {
-        "title": "The Cruise",
+        "title": [
+            "The Cruise"
+        ],
         "directors": [
             "Marek Piwowski"
         ],
@@ -1417,7 +1547,9 @@
         "decade": 1970
     },
     {
-        "title": "Painted Faces",
+        "title": [
+            "Painted Faces"
+        ],
         "directors": [
             "Alex Law"
         ],
@@ -1432,7 +1564,9 @@
         "decade": 1980
     },
     {
-        "title": "Kill Bill: Vol. 1",
+        "title": [
+            "Kill Bill: Vol. 1"
+        ],
         "directors": [
             "Quentin Tarantino"
         ],
@@ -1454,7 +1588,9 @@
         "decade": 2000
     },
     {
-        "title": "Richard Pryor: Live in Concert",
+        "title": [
+            "Richard Pryor: Live in Concert"
+        ],
         "directors": [
             "Jeff Margolis"
         ],
@@ -1467,7 +1603,9 @@
         "decade": 1970
     },
     {
-        "title": "Manoranjan",
+        "title": [
+            "Manoranjan"
+        ],
         "directors": [
             "Shammi Kapoor"
         ],
@@ -1489,7 +1627,9 @@
         "decade": 1970
     },
     {
-        "title": "Dragon Tiger Gate",
+        "title": [
+            "Dragon Tiger Gate"
+        ],
         "directors": [
             "Wilson Yip"
         ],
@@ -1511,7 +1651,9 @@
         "decade": 2000
     },
     {
-        "title": "Know Your Enemy - Japan",
+        "title": [
+            "Know Your Enemy - Japan"
+        ],
         "directors": [
             "Frank Capra",
             "Joris Ivens"
@@ -1526,7 +1668,9 @@
         "decade": 1940
     },
     {
-        "title": "Power Rangers Lost Galaxy",
+        "title": [
+            "Power Rangers Lost Galaxy"
+        ],
         "directors": [],
         "cast": [
             "Archie Kao",
@@ -1551,7 +1695,9 @@
         "decade": 1990
     },
     {
-        "title": "Supergirl",
+        "title": [
+            "Supergirl"
+        ],
         "directors": [
             "Jeannot Szwarc"
         ],
@@ -1567,7 +1713,9 @@
         "decade": 1980
     },
     {
-        "title": "Saath Saath",
+        "title": [
+            "Saath Saath"
+        ],
         "directors": [
             "Raman Kumar"
         ],
@@ -1587,7 +1735,9 @@
         "decade": 1980
     },
     {
-        "title": "Twin Peaks",
+        "title": [
+            "Twin Peaks"
+        ],
         "directors": [],
         "cast": [
             "Kyle MacLachlan",
@@ -1623,7 +1773,9 @@
         "decade": 1990
     },
     {
-        "title": "V for Vendetta",
+        "title": [
+            "V for Vendetta"
+        ],
         "directors": [
             "James McTeigue"
         ],
@@ -1646,7 +1798,9 @@
         "decade": 2000
     },
     {
-        "title": "Layer Cake",
+        "title": [
+            "Layer Cake"
+        ],
         "directors": [
             "Matthew Vaughn"
         ],
@@ -1669,7 +1823,9 @@
         "decade": 2000
     },
     {
-        "title": "Lincoln",
+        "title": [
+            "Lincoln"
+        ],
         "directors": [
             "Steven Spielberg"
         ],
@@ -1695,7 +1851,9 @@
         "decade": 2010
     },
     {
-        "title": "Rocky IV",
+        "title": [
+            "Rocky IV"
+        ],
         "directors": [
             "Sylvester Stallone"
         ],
@@ -1715,7 +1873,9 @@
         "decade": 1980
     },
     {
-        "title": "Raging Bull",
+        "title": [
+            "Raging Bull"
+        ],
         "directors": [
             "Martin Scorsese"
         ],
@@ -1736,7 +1896,10 @@
         "decade": 1980
     },
     {
-        "title": "Thelonious Monk: Straight, No Chaser",
+        "title": [
+            "Thelonious Monk: Straight",
+            "No Chaser"
+        ],
         "directors": [
             "Charlotte Zwerin"
         ],
@@ -1750,7 +1913,9 @@
         "decade": 1980
     },
     {
-        "title": "Boom",
+        "title": [
+            "Boom"
+        ],
         "directors": [
             "Kaizad Gustad"
         ],
@@ -1772,7 +1937,9 @@
         "decade": 2000
     },
     {
-        "title": "As Good as It Gets",
+        "title": [
+            "As Good as It Gets"
+        ],
         "directors": [
             "James L. Brooks"
         ],
@@ -1792,7 +1959,9 @@
         "decade": 1990
     },
     {
-        "title": "Fiza",
+        "title": [
+            "Fiza"
+        ],
         "directors": [
             "Khalid Mohamed"
         ],
@@ -1814,7 +1983,9 @@
         "decade": 2000
     },
     {
-        "title": "Power Rangers Wild Force",
+        "title": [
+            "Power Rangers Wild Force"
+        ],
         "directors": [],
         "cast": [
             "Ricardo Medina Jr.",
@@ -1835,7 +2006,9 @@
         "decade": 2000
     },
     {
-        "title": "The Talented Mr. Ripley",
+        "title": [
+            "The Talented Mr. Ripley"
+        ],
         "directors": [
             "Anthony Minghella"
         ],
@@ -1857,7 +2030,9 @@
         "decade": 1990
     },
     {
-        "title": "Crash",
+        "title": [
+            "Crash"
+        ],
         "directors": [
             "Paul Haggis"
         ],
@@ -1882,7 +2057,9 @@
         "decade": 2000
     },
     {
-        "title": "Run",
+        "title": [
+            "Run"
+        ],
         "directors": [
             "Jeeva"
         ],
@@ -1904,7 +2081,9 @@
         "decade": 2000
     },
     {
-        "title": "The Break-Up",
+        "title": [
+            "The Break-Up"
+        ],
         "directors": [
             "Peyton Reed"
         ],
@@ -1929,7 +2108,9 @@
         "decade": 2000
     },
     {
-        "title": "Scream 2",
+        "title": [
+            "Scream 2"
+        ],
         "directors": [
             "Wes Craven"
         ],
@@ -1961,7 +2142,9 @@
         "decade": 1990
     },
     {
-        "title": "The Game",
+        "title": [
+            "The Game"
+        ],
         "directors": [
             "David Fincher"
         ],
@@ -1981,7 +2164,9 @@
         "decade": 1990
     },
     {
-        "title": "Terminator Salvation",
+        "title": [
+            "Terminator Salvation"
+        ],
         "directors": [
             "McG"
         ],
@@ -2003,7 +2188,9 @@
         "decade": 2000
     },
     {
-        "title": "Aitraaz",
+        "title": [
+            "Aitraaz"
+        ],
         "directors": [
             "Abbas Alibhai Burmawalla",
             "Mastan Alibhai Burmawalla"
@@ -2022,7 +2209,9 @@
         "decade": 2000
     },
     {
-        "title": "Strictly Ballroom",
+        "title": [
+            "Strictly Ballroom"
+        ],
         "directors": [
             "Baz Luhrmann"
         ],
@@ -2042,7 +2231,9 @@
         "decade": 1990
     },
     {
-        "title": "Dumb and Dumberer: When Harry Met Lloyd",
+        "title": [
+            "Dumb and Dumberer: When Harry Met Lloyd"
+        ],
         "directors": [
             "Troy Miller"
         ],
@@ -2063,7 +2254,9 @@
         "decade": 2000
     },
     {
-        "title": "Martial Arts of Shaolin",
+        "title": [
+            "Martial Arts of Shaolin"
+        ],
         "directors": [
             "Chia-Liang Liu"
         ],
@@ -2082,7 +2275,9 @@
         "decade": 1980
     },
     {
-        "title": "Papa the Great",
+        "title": [
+            "Papa the Great"
+        ],
         "directors": [
             "Bhagyaraj"
         ],
@@ -2104,7 +2299,9 @@
         "decade": 2000
     },
     {
-        "title": "Rocky",
+        "title": [
+            "Rocky"
+        ],
         "directors": [
             "John G. Avildsen"
         ],
@@ -2125,7 +2322,9 @@
         "decade": 1970
     },
     {
-        "title": "Berlin Calling",
+        "title": [
+            "Berlin Calling"
+        ],
         "directors": [
             "Hannes Stöhr"
         ],
@@ -2147,7 +2346,9 @@
         "decade": 2000
     },
     {
-        "title": "Gothika",
+        "title": [
+            "Gothika"
+        ],
         "directors": [
             "Mathieu Kassovitz"
         ],
@@ -2167,7 +2368,9 @@
         "decade": 2000
     },
     {
-        "title": "A Cinderella Story",
+        "title": [
+            "A Cinderella Story"
+        ],
         "directors": [
             "Mark Rosman"
         ],
@@ -2194,7 +2397,9 @@
         "decade": 2000
     },
     {
-        "title": "Primal Fear",
+        "title": [
+            "Primal Fear"
+        ],
         "directors": [
             "Gregory Hoblit"
         ],
@@ -2220,7 +2425,9 @@
         "decade": 1990
     },
     {
-        "title": "Hitch",
+        "title": [
+            "Hitch"
+        ],
         "directors": [
             "Andy Tennant"
         ],
@@ -2242,7 +2449,9 @@
         "decade": 2000
     },
     {
-        "title": "300 Miles to Heaven",
+        "title": [
+            "300 Miles to Heaven"
+        ],
         "directors": [
             "Maciej Dejczer"
         ],
@@ -2264,7 +2473,9 @@
         "decade": 1980
     },
     {
-        "title": "The Stanford Prison Experiment",
+        "title": [
+            "The Stanford Prison Experiment"
+        ],
         "directors": [
             "Kyle Patrick Alvarez"
         ],
@@ -2286,7 +2497,9 @@
         "decade": 2010
     },
     {
-        "title": "Hotel Pacific",
+        "title": [
+            "Hotel Pacific"
+        ],
         "directors": [
             "Janusz Majewski"
         ],
@@ -2307,7 +2520,9 @@
         "decade": 1970
     },
     {
-        "title": "Fear and Loathing in Las Vegas",
+        "title": [
+            "Fear and Loathing in Las Vegas"
+        ],
         "directors": [
             "Terry Gilliam"
         ],
@@ -2335,7 +2550,9 @@
         "decade": 1990
     },
     {
-        "title": "Hairspray",
+        "title": [
+            "Hairspray"
+        ],
         "directors": [
             "Adam Shankman"
         ],
@@ -2359,7 +2576,9 @@
         "decade": 2000
     },
     {
-        "title": "Winter of Our Dreams",
+        "title": [
+            "Winter of Our Dreams"
+        ],
         "directors": [
             "John Duigan"
         ],
@@ -2378,7 +2597,9 @@
         "decade": 1980
     },
     {
-        "title": "Power Rangers S.P.D.",
+        "title": [
+            "Power Rangers S.P.D."
+        ],
         "directors": [],
         "cast": [
             "Brandon Jay McLaren",
@@ -2403,7 +2624,9 @@
         "decade": 2000
     },
     {
-        "title": "What's Eating Gilbert Grape",
+        "title": [
+            "What's Eating Gilbert Grape"
+        ],
         "directors": [
             "Lasse Hallström"
         ],
@@ -2425,7 +2648,9 @@
         "decade": 1990
     },
     {
-        "title": "Snow Day",
+        "title": [
+            "Snow Day"
+        ],
         "directors": [
             "Chris Koch"
         ],
@@ -2447,7 +2672,9 @@
         "decade": 2000
     },
     {
-        "title": "The Great Raid",
+        "title": [
+            "The Great Raid"
+        ],
         "directors": [
             "John Dahl"
         ],
@@ -2474,7 +2701,9 @@
         "decade": 2000
     },
     {
-        "title": "GoldenEye",
+        "title": [
+            "GoldenEye"
+        ],
         "directors": [
             "Martin Campbell"
         ],
@@ -2501,7 +2730,9 @@
         "decade": 1990
     },
     {
-        "title": "Mutiny on the Bounty",
+        "title": [
+            "Mutiny on the Bounty"
+        ],
         "directors": [
             "Lewis Milestone",
             "Carol Reed"
@@ -2520,7 +2751,9 @@
         "decade": 1960
     },
     {
-        "title": "What a Girl Wants",
+        "title": [
+            "What a Girl Wants"
+        ],
         "directors": [
             "Dennie Gordon"
         ],
@@ -2540,7 +2773,9 @@
         "decade": 2000
     },
     {
-        "title": "21",
+        "title": [
+            "21"
+        ],
         "directors": [
             "Robert Luketic"
         ],
@@ -2564,7 +2799,9 @@
         "decade": 2000
     },
     {
-        "title": "Trimurti",
+        "title": [
+            "Trimurti"
+        ],
         "directors": [
             "Mukul Anand"
         ],
@@ -2591,7 +2828,9 @@
         "decade": 1990
     },
     {
-        "title": "The Holy Man",
+        "title": [
+            "The Holy Man"
+        ],
         "directors": [
             "Note Chern-Yim"
         ],
@@ -2609,7 +2848,9 @@
         "decade": 2000
     },
     {
-        "title": "Don",
+        "title": [
+            "Don"
+        ],
         "directors": [
             "Farhan Akhtar"
         ],
@@ -2629,7 +2870,9 @@
         "decade": 2000
     },
     {
-        "title": "A Night at the Roxbury",
+        "title": [
+            "A Night at the Roxbury"
+        ],
         "directors": [
             "John Fortenberry"
         ],
@@ -2651,7 +2894,9 @@
         "decade": 1990
     },
     {
-        "title": "Nappily Ever After",
+        "title": [
+            "Nappily Ever After"
+        ],
         "directors": [
             "Haifaa Al-Mansour"
         ],
@@ -2668,7 +2913,9 @@
         "decade": 2010
     },
     {
-        "title": "Shutter",
+        "title": [
+            "Shutter"
+        ],
         "directors": [
             "Banjong Pisanthanakun",
             "Parkpoom Wongpoom"
@@ -2689,7 +2936,9 @@
         "decade": 2000
     },
     {
-        "title": "Click",
+        "title": [
+            "Click"
+        ],
         "directors": [
             "Frank Coraci"
         ],
@@ -2712,7 +2961,9 @@
         "decade": 2000
     },
     {
-        "title": "Elaan",
+        "title": [
+            "Elaan"
+        ],
         "directors": [
             "K. Ramanlal"
         ],
@@ -2730,7 +2981,9 @@
         "decade": 1970
     },
     {
-        "title": "A Stoning in Fulham County",
+        "title": [
+            "A Stoning in Fulham County"
+        ],
         "directors": [
             "Larry Elikann"
         ],
@@ -2754,7 +3007,9 @@
         "decade": 1980
     },
     {
-        "title": "San Pietro",
+        "title": [
+            "San Pietro"
+        ],
         "directors": [
             "John Huston"
         ],
@@ -2765,7 +3020,9 @@
         "decade": 1940
     },
     {
-        "title": "Daddy Day Care",
+        "title": [
+            "Daddy Day Care"
+        ],
         "directors": [
             "Steve Carr"
         ],
@@ -2789,7 +3046,9 @@
         "decade": 2000
     },
     {
-        "title": "Chicken Little",
+        "title": [
+            "Chicken Little"
+        ],
         "directors": [
             "Mark Dindal"
         ],
@@ -2814,7 +3073,9 @@
         "decade": 2000
     },
     {
-        "title": "Season of the Witch",
+        "title": [
+            "Season of the Witch"
+        ],
         "directors": [
             "Dominic Sena"
         ],
@@ -2836,7 +3097,9 @@
         "decade": 2010
     },
     {
-        "title": "Alice Doesn't Live Here Anymore",
+        "title": [
+            "Alice Doesn't Live Here Anymore"
+        ],
         "directors": [
             "Martin Scorsese"
         ],
@@ -2858,7 +3121,9 @@
         "decade": 1970
     },
     {
-        "title": "Babel",
+        "title": [
+            "Babel"
+        ],
         "directors": [
             "Alejandro G. Iñárritu"
         ],
@@ -2881,7 +3146,9 @@
         "decade": 2000
     },
     {
-        "title": "Code Name: The Cleaner",
+        "title": [
+            "Code Name: The Cleaner"
+        ],
         "directors": [
             "Les Mayfield"
         ],
@@ -2901,7 +3168,9 @@
         "decade": 2000
     },
     {
-        "title": "Kya Kehna",
+        "title": [
+            "Kya Kehna"
+        ],
         "directors": [
             "Kundan Shah"
         ],
@@ -2918,7 +3187,9 @@
         "decade": 2000
     },
     {
-        "title": "Mujrim",
+        "title": [
+            "Mujrim"
+        ],
         "directors": [
             "Umesh Mehra"
         ],
@@ -2940,7 +3211,9 @@
         "decade": 1980
     },
     {
-        "title": "Trainspotting",
+        "title": [
+            "Trainspotting"
+        ],
         "directors": [
             "Danny Boyle"
         ],
@@ -2964,7 +3237,9 @@
         "decade": 1990
     },
     {
-        "title": "Tarzan",
+        "title": [
+            "Tarzan"
+        ],
         "directors": [
             "Chris Buck",
             "Kevin Lima"
@@ -2986,7 +3261,9 @@
         "decade": 1990
     },
     {
-        "title": "Center Stage",
+        "title": [
+            "Center Stage"
+        ],
         "directors": [
             "Nicholas Hytner"
         ],
@@ -3008,7 +3285,9 @@
         "decade": 2000
     },
     {
-        "title": "Khoon Khoon",
+        "title": [
+            "Khoon Khoon"
+        ],
         "directors": [
             "Mohammed Hussain"
         ],
@@ -3026,7 +3305,9 @@
         "decade": 1970
     },
     {
-        "title": "American Beauty",
+        "title": [
+            "American Beauty"
+        ],
         "directors": [
             "Sam Mendes"
         ],
@@ -3048,7 +3329,9 @@
         "decade": 1990
     },
     {
-        "title": "Bolt",
+        "title": [
+            "Bolt"
+        ],
         "directors": [
             "Byron Howard",
             "Chris Williams"
@@ -3081,7 +3364,9 @@
         "decade": 2000
     },
     {
-        "title": "Open Season",
+        "title": [
+            "Open Season"
+        ],
         "directors": [
             "Roger Allers",
             "Jill Culton"
@@ -3104,7 +3389,9 @@
         "decade": 2000
     },
     {
-        "title": "Vantage Point",
+        "title": [
+            "Vantage Point"
+        ],
         "directors": [
             "Pete Travis"
         ],
@@ -3126,7 +3413,9 @@
         "decade": 2000
     },
     {
-        "title": "The Battle of Midway",
+        "title": [
+            "The Battle of Midway"
+        ],
         "directors": [
             "John Ford"
         ],
@@ -3140,7 +3429,9 @@
         "decade": 1940
     },
     {
-        "title": "Chaahat",
+        "title": [
+            "Chaahat"
+        ],
         "directors": [
             "Mahesh Bhatt"
         ],
@@ -3159,7 +3450,9 @@
         "decade": 1990
     },
     {
-        "title": "Wyatt Earp",
+        "title": [
+            "Wyatt Earp"
+        ],
         "directors": [
             "Lawrence Kasdan"
         ],
@@ -3184,7 +3477,9 @@
         "decade": 1990
     },
     {
-        "title": "Sliver",
+        "title": [
+            "Sliver"
+        ],
         "directors": [
             "Phillip Noyce"
         ],
@@ -3206,7 +3501,9 @@
         "decade": 1990
     },
     {
-        "title": "Taal",
+        "title": [
+            "Taal"
+        ],
         "directors": [
             "Subhash Ghai"
         ],
@@ -3226,7 +3523,9 @@
         "decade": 1990
     },
     {
-        "title": "Little Monsters",
+        "title": [
+            "Little Monsters"
+        ],
         "directors": [
             "Richard Greenberg"
         ],
@@ -3250,7 +3549,9 @@
         "decade": 1980
     },
     {
-        "title": "Kaalia",
+        "title": [
+            "Kaalia"
+        ],
         "directors": [
             "Tinnu Anand"
         ],
@@ -3272,7 +3573,9 @@
         "decade": 1980
     },
     {
-        "title": "Rang De Basanti",
+        "title": [
+            "Rang De Basanti"
+        ],
         "directors": [
             "Rakeysh Omprakash Mehra"
         ],
@@ -3296,7 +3599,9 @@
         "decade": 2000
     },
     {
-        "title": "Hamburger Hill",
+        "title": [
+            "Hamburger Hill"
+        ],
         "directors": [
             "John Irvin"
         ],
@@ -3322,7 +3627,9 @@
         "decade": 1980
     },
     {
-        "title": "Rebel Without a Cause",
+        "title": [
+            "Rebel Without a Cause"
+        ],
         "directors": [
             "Nicholas Ray"
         ],
@@ -3344,7 +3651,9 @@
         "decade": 1950
     },
     {
-        "title": "Chewin' the Fat",
+        "title": [
+            "Chewin' the Fat"
+        ],
         "directors": [],
         "cast": [
             "Ford Kiernan",
@@ -3359,7 +3668,9 @@
         "decade": 1990
     },
     {
-        "title": "The Other Side of the Wind",
+        "title": [
+            "The Other Side of the Wind"
+        ],
         "directors": [
             "Orson Welles"
         ],
@@ -3382,7 +3693,9 @@
         "decade": 2010
     },
     {
-        "title": "Kill Bill: Vol. 2",
+        "title": [
+            "Kill Bill: Vol. 2"
+        ],
         "directors": [
             "Quentin Tarantino"
         ],
@@ -3404,7 +3717,9 @@
         "decade": 2000
     },
     {
-        "title": "Mystic River",
+        "title": [
+            "Mystic River"
+        ],
         "directors": [
             "Clint Eastwood"
         ],
@@ -3426,7 +3741,9 @@
         "decade": 2000
     },
     {
-        "title": "The Departed",
+        "title": [
+            "The Departed"
+        ],
         "directors": [
             "Martin Scorsese"
         ],
@@ -3448,7 +3765,9 @@
         "decade": 2000
     },
     {
-        "title": "Rebelde",
+        "title": [
+            "Rebelde"
+        ],
         "directors": [],
         "cast": [
             "Anahí",
@@ -3468,7 +3787,9 @@
         "decade": 2000
     },
     {
-        "title": "Medium",
+        "title": [
+            "Medium"
+        ],
         "directors": [
             "Jacek Koprowicz"
         ],
@@ -3490,7 +3811,9 @@
         "decade": 1980
     },
     {
-        "title": "A Dangerous Woman",
+        "title": [
+            "A Dangerous Woman"
+        ],
         "directors": [
             "Stephen Gyllenhaal"
         ],
@@ -3511,7 +3834,9 @@
         "decade": 1990
     },
     {
-        "title": "Mona Lisa Smile",
+        "title": [
+            "Mona Lisa Smile"
+        ],
         "directors": [
             "Mike Newell"
         ],
@@ -3533,7 +3858,9 @@
         "decade": 2000
     },
     {
-        "title": "Howards End",
+        "title": [
+            "Howards End"
+        ],
         "directors": [
             "James Ivory"
         ],
@@ -3555,7 +3882,9 @@
         "decade": 1990
     },
     {
-        "title": "Donnie Brasco",
+        "title": [
+            "Donnie Brasco"
+        ],
         "directors": [
             "Mike Newell"
         ],
@@ -3577,7 +3906,9 @@
         "decade": 1990
     },
     {
-        "title": "The Rugrats Movie",
+        "title": [
+            "The Rugrats Movie"
+        ],
         "directors": [
             "Igor Kovalyov",
             "Norton Virgien"
@@ -3605,7 +3936,9 @@
         "decade": 1990
     },
     {
-        "title": "Hazaaron Khwaishein Aisi",
+        "title": [
+            "Hazaaron Khwaishein Aisi"
+        ],
         "directors": [
             "Sudhir Mishra"
         ],
@@ -3627,7 +3960,9 @@
         "decade": 2000
     },
     {
-        "title": "About a Boy",
+        "title": [
+            "About a Boy"
+        ],
         "directors": [
             "Chris Weitz",
             "Paul Weitz"
@@ -3649,7 +3984,9 @@
         "decade": 2000
     },
     {
-        "title": "How to Be a Player",
+        "title": [
+            "How to Be a Player"
+        ],
         "directors": [
             "Lionel C. Martin"
         ],
@@ -3672,7 +4009,9 @@
         "decade": 1990
     },
     {
-        "title": "Once Upon a Time in the West",
+        "title": [
+            "Once Upon a Time in the West"
+        ],
         "directors": [
             "Sergio Leone"
         ],
@@ -3695,7 +4034,9 @@
         "decade": 1960
     },
     {
-        "title": "Austin Powers: International Man of Mystery",
+        "title": [
+            "Austin Powers: International Man of Mystery"
+        ],
         "directors": [
             "Jay Roach"
         ],
@@ -3718,7 +4059,9 @@
         "decade": 1990
     },
     {
-        "title": "Gosford Park",
+        "title": [
+            "Gosford Park"
+        ],
         "directors": [
             "Robert Altman"
         ],
@@ -3750,7 +4093,9 @@
         "decade": 2000
     },
     {
-        "title": "Dad",
+        "title": [
+            "Dad"
+        ],
         "directors": [
             "Gary David Goldberg"
         ],
@@ -3775,7 +4120,9 @@
         "decade": 1980
     },
     {
-        "title": "The Matrix Reloaded",
+        "title": [
+            "The Matrix Reloaded"
+        ],
         "directors": [
             "Lilly Wachowski",
             "Lana Wachowski"
@@ -3800,7 +4147,9 @@
         "decade": 2000
     },
     {
-        "title": "The Flintstones",
+        "title": [
+            "The Flintstones"
+        ],
         "directors": [
             "Brian Levant"
         ],
@@ -3822,7 +4171,9 @@
         "decade": 1990
     },
     {
-        "title": "Logan's Run",
+        "title": [
+            "Logan's Run"
+        ],
         "directors": [
             "Michael Anderson"
         ],
@@ -3843,7 +4194,9 @@
         "decade": 1970
     },
     {
-        "title": "The Time Traveler's Wife",
+        "title": [
+            "The Time Traveler's Wife"
+        ],
         "directors": [
             "Robert Schwentke"
         ],
@@ -3866,7 +4219,9 @@
         "decade": 2000
     },
     {
-        "title": "Bad Boys",
+        "title": [
+            "Bad Boys"
+        ],
         "directors": [
             "Michael Bay"
         ],
@@ -3888,7 +4243,9 @@
         "decade": 1990
     },
     {
-        "title": "One 2 Ka 4",
+        "title": [
+            "One 2 Ka 4"
+        ],
         "directors": [
             "Shashilal K. Nair"
         ],
@@ -3910,7 +4267,9 @@
         "decade": 2000
     },
     {
-        "title": "Ghayal",
+        "title": [
+            "Ghayal"
+        ],
         "directors": [
             "Rajkumar Santoshi"
         ],
@@ -3930,7 +4289,9 @@
         "decade": 1990
     },
     {
-        "title": "Daughters of the Dust",
+        "title": [
+            "Daughters of the Dust"
+        ],
         "directors": [
             "Julie Dash"
         ],
@@ -3952,7 +4313,9 @@
         "decade": 1990
     },
     {
-        "title": "Terminator 3: Rise of the Machines",
+        "title": [
+            "Terminator 3: Rise of the Machines"
+        ],
         "directors": [
             "Jonathan Mostow"
         ],
@@ -3974,7 +4337,9 @@
         "decade": 2000
     },
     {
-        "title": "Martin Lawrence Live: Runteldat",
+        "title": [
+            "Martin Lawrence Live: Runteldat"
+        ],
         "directors": [
             "David Raynr"
         ],
@@ -3987,7 +4352,9 @@
         "decade": 2000
     },
     {
-        "title": "K-19: The Widowmaker",
+        "title": [
+            "K-19: The Widowmaker"
+        ],
         "directors": [
             "Kathryn Bigelow"
         ],
@@ -4009,7 +4376,9 @@
         "decade": 2000
     },
     {
-        "title": "Devrai",
+        "title": [
+            "Devrai"
+        ],
         "directors": [
             "Sumitra Bhave",
             "Sunil Sukthankar"
@@ -4030,7 +4399,9 @@
         "decade": 2000
     },
     {
-        "title": "Lucky: No Time for Love",
+        "title": [
+            "Lucky: No Time for Love"
+        ],
         "directors": [
             "Radhika Rao",
             "Vinay Sapru"
@@ -4051,7 +4422,9 @@
         "decade": 2000
     },
     {
-        "title": "Space Cowboys",
+        "title": [
+            "Space Cowboys"
+        ],
         "directors": [
             "Clint Eastwood"
         ],
@@ -4075,7 +4448,9 @@
         "decade": 2000
     },
     {
-        "title": "Doctor Zhivago",
+        "title": [
+            "Doctor Zhivago"
+        ],
         "directors": [
             "David Lean"
         ],
@@ -4096,7 +4471,9 @@
         "decade": 1960
     },
     {
-        "title": "The First Wives Club",
+        "title": [
+            "The First Wives Club"
+        ],
         "directors": [
             "Hugh WIlson"
         ],
@@ -4123,7 +4500,9 @@
         "decade": 1990
     },
     {
-        "title": "The Last Days of Chez Nous",
+        "title": [
+            "The Last Days of Chez Nous"
+        ],
         "directors": [
             "Gillian Armstrong"
         ],
@@ -4141,7 +4520,9 @@
         "decade": 1990
     },
     {
-        "title": "Monty Python and the Holy Grail",
+        "title": [
+            "Monty Python and the Holy Grail"
+        ],
         "directors": [
             "Terry Gilliam",
             "Terry Jones"
@@ -4163,7 +4544,9 @@
         "decade": 1970
     },
     {
-        "title": "Executive Decision",
+        "title": [
+            "Executive Decision"
+        ],
         "directors": [
             "Stuart Baird"
         ],
@@ -4185,7 +4568,9 @@
         "decade": 1990
     },
     {
-        "title": "The Last Boy Scout",
+        "title": [
+            "The Last Boy Scout"
+        ],
         "directors": [
             "Tony Scott"
         ],
@@ -4205,7 +4590,9 @@
         "decade": 1990
     },
     {
-        "title": "Nacho Libre",
+        "title": [
+            "Nacho Libre"
+        ],
         "directors": [
             "Jared Hess"
         ],
@@ -4227,7 +4614,9 @@
         "decade": 2000
     },
     {
-        "title": "Free Willy",
+        "title": [
+            "Free Willy"
+        ],
         "directors": [
             "Simon Wincer"
         ],
@@ -4249,7 +4638,9 @@
         "decade": 1990
     },
     {
-        "title": "Pitaah",
+        "title": [
+            "Pitaah"
+        ],
         "directors": [
             "Mahesh Manjrekar"
         ],
@@ -4271,7 +4662,9 @@
         "decade": 2000
     },
     {
-        "title": "Inkheart",
+        "title": [
+            "Inkheart"
+        ],
         "directors": [
             "Iain Softley"
         ],
@@ -4293,7 +4686,9 @@
         "decade": 2000
     },
     {
-        "title": "Lady in the Water",
+        "title": [
+            "Lady in the Water"
+        ],
         "directors": [
             "M. Night Shyamalan"
         ],
@@ -4315,7 +4710,9 @@
         "decade": 2000
     },
     {
-        "title": "Hamara Dil Aapke Paas Hai",
+        "title": [
+            "Hamara Dil Aapke Paas Hai"
+        ],
         "directors": [
             "Satish Kaushik"
         ],
@@ -4339,7 +4736,9 @@
         "decade": 2000
     },
     {
-        "title": "Poseidon",
+        "title": [
+            "Poseidon"
+        ],
         "directors": [
             "Wolfgang Petersen"
         ],
@@ -4360,7 +4759,9 @@
         "decade": 2000
     },
     {
-        "title": "Westerplatte Resists",
+        "title": [
+            "Westerplatte Resists"
+        ],
         "directors": [
             "Stanisław Różewicz"
         ],
@@ -4378,7 +4779,9 @@
         "decade": 1960
     },
     {
-        "title": "Mahjong Heroes",
+        "title": [
+            "Mahjong Heroes"
+        ],
         "directors": [
             "Li Pei-Chuan"
         ],
@@ -4396,7 +4799,9 @@
         "decade": 1980
     },
     {
-        "title": "Salaakhen",
+        "title": [
+            "Salaakhen"
+        ],
         "directors": [
             "A. Salaam"
         ],
@@ -4418,7 +4823,9 @@
         "decade": 1970
     },
     {
-        "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+        "title": [
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze"
+        ],
         "directors": [
             "Michael Pressman"
         ],
@@ -4440,7 +4847,9 @@
         "decade": 1990
     },
     {
-        "title": "The Box",
+        "title": [
+            "The Box"
+        ],
         "directors": [
             "Richard Kelly"
         ],
@@ -4461,7 +4870,9 @@
         "decade": 2000
     },
     {
-        "title": "Surf's Up",
+        "title": [
+            "Surf's Up"
+        ],
         "directors": [
             "Ash Brannon",
             "Chris Buck"
@@ -4484,7 +4895,9 @@
         "decade": 2000
     },
     {
-        "title": "Good Burger",
+        "title": [
+            "Good Burger"
+        ],
         "directors": [
             "Brian Robbins"
         ],
@@ -4507,7 +4920,9 @@
         "decade": 1990
     },
     {
-        "title": "Coach Carter",
+        "title": [
+            "Coach Carter"
+        ],
         "directors": [
             "Thomas Carter"
         ],
@@ -4530,7 +4945,9 @@
         "decade": 2000
     },
     {
-        "title": "The Dukes of Hazzard",
+        "title": [
+            "The Dukes of Hazzard"
+        ],
         "directors": [
             "Jay Chandrasekhar"
         ],
@@ -4552,7 +4969,9 @@
         "decade": 2000
     },
     {
-        "title": "Humko Deewana Kar Gaye",
+        "title": [
+            "Humko Deewana Kar Gaye"
+        ],
         "directors": [
             "Raj Kanwar"
         ],
@@ -4577,7 +4996,9 @@
         "decade": 2000
     },
     {
-        "title": "Ujala",
+        "title": [
+            "Ujala"
+        ],
         "directors": [
             "Naresh Saigal"
         ],
@@ -4595,7 +5016,9 @@
         "decade": 1950
     },
     {
-        "title": "Scary Movie",
+        "title": [
+            "Scary Movie"
+        ],
         "directors": [
             "Keenen Ivory Wayans"
         ],
@@ -4623,7 +5046,9 @@
         "decade": 2000
     },
     {
-        "title": "The Peacemaker",
+        "title": [
+            "The Peacemaker"
+        ],
         "directors": [
             "Mimi Leder"
         ],
@@ -4645,7 +5070,9 @@
         "decade": 1990
     },
     {
-        "title": "In Defense of a Married Man",
+        "title": [
+            "In Defense of a Married Man"
+        ],
         "directors": [
             "Joel Oliansky"
         ],
@@ -4665,7 +5092,9 @@
         "decade": 1990
     },
     {
-        "title": "Bhoot",
+        "title": [
+            "Bhoot"
+        ],
         "directors": [
             "Ram Gopal Varma"
         ],
@@ -4685,7 +5114,9 @@
         "decade": 2000
     },
     {
-        "title": "Jhankaar Beats",
+        "title": [
+            "Jhankaar Beats"
+        ],
         "directors": [
             "Sujoy Ghosh"
         ],
@@ -4703,7 +5134,9 @@
         "decade": 2000
     },
     {
-        "title": "Forbidden Planet",
+        "title": [
+            "Forbidden Planet"
+        ],
         "directors": [
             "Fred M. Wilcox"
         ],
@@ -4722,7 +5155,9 @@
         "decade": 1950
     },
     {
-        "title": "Professor",
+        "title": [
+            "Professor"
+        ],
         "directors": [
             "Lekh Tandon"
         ],
@@ -4744,7 +5179,10 @@
         "decade": 1960
     },
     {
-        "title": "Crouching Tiger, Hidden Dragon",
+        "title": [
+            "Crouching Tiger",
+            "Hidden Dragon"
+        ],
         "directors": [
             "Ang Lee"
         ],
@@ -4766,7 +5204,9 @@
         "decade": 2000
     },
     {
-        "title": "Charlie and the Chocolate Factory",
+        "title": [
+            "Charlie and the Chocolate Factory"
+        ],
         "directors": [
             "Tim Burton"
         ],
@@ -4792,7 +5232,9 @@
         "decade": 2000
     },
     {
-        "title": "16 Blocks",
+        "title": [
+            "16 Blocks"
+        ],
         "directors": [
             "Richard Donner"
         ],
@@ -4814,7 +5256,9 @@
         "decade": 2000
     },
     {
-        "title": "No Reservations",
+        "title": [
+            "No Reservations"
+        ],
         "directors": [
             "Scott Hicks"
         ],
@@ -4834,7 +5278,9 @@
         "decade": 2000
     },
     {
-        "title": "Good Luck Chuck",
+        "title": [
+            "Good Luck Chuck"
+        ],
         "directors": [
             "Mark Helfrich"
         ],
@@ -4861,7 +5307,9 @@
         "decade": 2000
     },
     {
-        "title": "Scott Pilgrim vs. the World",
+        "title": [
+            "Scott Pilgrim vs. the World"
+        ],
         "directors": [
             "Edgar Wright"
         ],
@@ -4887,7 +5335,9 @@
         "decade": 2010
     },
     {
-        "title": "Indiana Jones and the Last Crusade",
+        "title": [
+            "Indiana Jones and the Last Crusade"
+        ],
         "directors": [
             "Steven Spielberg"
         ],
@@ -4909,7 +5359,9 @@
         "decade": 1980
     },
     {
-        "title": "World Trade Center",
+        "title": [
+            "World Trade Center"
+        ],
         "directors": [
             "Oliver Stone"
         ],
@@ -4934,7 +5386,9 @@
         "decade": 2000
     },
     {
-        "title": "Tears of the Sun",
+        "title": [
+            "Tears of the Sun"
+        ],
         "directors": [
             "Antoine Fuqua"
         ],
@@ -4958,7 +5412,9 @@
         "decade": 2000
     },
     {
-        "title": "Chamatkar",
+        "title": [
+            "Chamatkar"
+        ],
         "directors": [
             "Rajiv Mehra"
         ],
@@ -4980,7 +5436,9 @@
         "decade": 1990
     },
     {
-        "title": "Four Weddings and a Funeral",
+        "title": [
+            "Four Weddings and a Funeral"
+        ],
         "directors": [
             "Mike Newell"
         ],
@@ -5005,7 +5463,9 @@
         "decade": 1990
     },
     {
-        "title": "The Ring",
+        "title": [
+            "The Ring"
+        ],
         "directors": [
             "Gore Verbinski"
         ],
@@ -5027,7 +5487,9 @@
         "decade": 2000
     },
     {
-        "title": "Haseena Maan Jaayegi",
+        "title": [
+            "Haseena Maan Jaayegi"
+        ],
         "directors": [
             "David Dhawan"
         ],
@@ -5057,7 +5519,9 @@
         "decade": 1990
     },
     {
-        "title": "The Amityville Horror",
+        "title": [
+            "The Amityville Horror"
+        ],
         "directors": [
             "Andrew Douglas"
         ],
@@ -5079,7 +5543,9 @@
         "decade": 2000
     },
     {
-        "title": "Troy",
+        "title": [
+            "Troy"
+        ],
         "directors": [
             "Wolfgang Petersen"
         ],
@@ -5101,7 +5567,9 @@
         "decade": 2000
     },
     {
-        "title": "The Trigger Effect",
+        "title": [
+            "The Trigger Effect"
+        ],
         "directors": [
             "David Koepp"
         ],
@@ -5121,7 +5589,9 @@
         "decade": 1990
     },
     {
-        "title": "The Saint",
+        "title": [
+            "The Saint"
+        ],
         "directors": [
             "Phillip Noyce"
         ],
@@ -5143,7 +5613,9 @@
         "decade": 1990
     },
     {
-        "title": "Chronicle of an Escape",
+        "title": [
+            "Chronicle of an Escape"
+        ],
         "directors": [
             "Israel Adrián Caetano"
         ],
@@ -5164,7 +5636,9 @@
         "decade": 2000
     },
     {
-        "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "title": [
+            "Sweeney Todd: The Demon Barber of Fleet Street"
+        ],
         "directors": [
             "Tim Burton"
         ],
@@ -5185,7 +5659,9 @@
         "decade": 2000
     },
     {
-        "title": "Bollywood Calling",
+        "title": [
+            "Bollywood Calling"
+        ],
         "directors": [
             "Nagesh Kukunoor"
         ],
@@ -5201,7 +5677,9 @@
         "decade": 2000
     },
     {
-        "title": "The Pink Panther",
+        "title": [
+            "The Pink Panther"
+        ],
         "directors": [
             "Shawn Levy"
         ],
@@ -5224,7 +5702,9 @@
         "decade": 2000
     },
     {
-        "title": "Now and Then",
+        "title": [
+            "Now and Then"
+        ],
         "directors": [
             "Lesli Linka Glatter"
         ],
@@ -5248,7 +5728,9 @@
         "decade": 1990
     },
     {
-        "title": "Employee of the Month",
+        "title": [
+            "Employee of the Month"
+        ],
         "directors": [
             "Greg Coolidge"
         ],
@@ -5270,7 +5752,9 @@
         "decade": 2000
     },
     {
-        "title": "Evolution",
+        "title": [
+            "Evolution"
+        ],
         "directors": [
             "Ivan Reitman"
         ],
@@ -5292,7 +5776,9 @@
         "decade": 2000
     },
     {
-        "title": "Something's Gotta Give",
+        "title": [
+            "Something's Gotta Give"
+        ],
         "directors": [
             "Nancy Meyers"
         ],
@@ -5312,7 +5798,9 @@
         "decade": 2000
     },
     {
-        "title": "Ocean's Twelve",
+        "title": [
+            "Ocean's Twelve"
+        ],
         "directors": [
             "Steven Soderbergh"
         ],
@@ -5334,7 +5822,9 @@
         "decade": 2000
     },
     {
-        "title": "Rosemary's Baby",
+        "title": [
+            "Rosemary's Baby"
+        ],
         "directors": [
             "Roman Polanski"
         ],
@@ -5356,7 +5846,9 @@
         "decade": 1960
     },
     {
-        "title": "Power Rangers in Space",
+        "title": [
+            "Power Rangers in Space"
+        ],
         "directors": [],
         "cast": [
             "Tracy Lynn Cruz",
@@ -5381,7 +5873,9 @@
         "decade": 1990
     },
     {
-        "title": "Melvin Goes to Dinner",
+        "title": [
+            "Melvin Goes to Dinner"
+        ],
         "directors": [
             "Bob Odenkirk"
         ],
@@ -5403,7 +5897,9 @@
         "decade": 2000
     },
     {
-        "title": "Child's Play",
+        "title": [
+            "Child's Play"
+        ],
         "directors": [
             "Tom Holland"
         ],
@@ -5425,7 +5921,9 @@
         "decade": 1980
     },
     {
-        "title": "The Pursuit of Happyness",
+        "title": [
+            "The Pursuit of Happyness"
+        ],
         "directors": [
             "Gabriele Muccino"
         ],
@@ -5445,7 +5943,9 @@
         "decade": 2000
     },
     {
-        "title": "Monty Python's Fliegender Zirkus",
+        "title": [
+            "Monty Python's Fliegender Zirkus"
+        ],
         "directors": [],
         "cast": [
             "Graham Chapman",
@@ -5461,7 +5961,9 @@
         "decade": 1970
     },
     {
-        "title": "For the Love of Benji",
+        "title": [
+            "For the Love of Benji"
+        ],
         "directors": [
             "Joe Camp"
         ],
@@ -5483,7 +5985,9 @@
         "decade": 1970
     },
     {
-        "title": "Men in Black II",
+        "title": [
+            "Men in Black II"
+        ],
         "directors": [
             "Barry Sonnenfeld"
         ],
@@ -5505,7 +6009,9 @@
         "decade": 2000
     },
     {
-        "title": "The Parole Officer",
+        "title": [
+            "The Parole Officer"
+        ],
         "directors": [
             "John Duigan"
         ],
@@ -5527,7 +6033,9 @@
         "decade": 2000
     },
     {
-        "title": "Lifeline",
+        "title": [
+            "Lifeline"
+        ],
         "directors": [
             "Johnnie To"
         ],
@@ -5547,7 +6055,9 @@
         "decade": 1990
     },
     {
-        "title": "Amrapali",
+        "title": [
+            "Amrapali"
+        ],
         "directors": [
             "Lekh Tandon"
         ],
@@ -5567,7 +6077,9 @@
         "decade": 1960
     },
     {
-        "title": "Initial D",
+        "title": [
+            "Initial D"
+        ],
         "directors": [
             "Andrew Lau Wai-Keung",
             "Alan Mak"
@@ -5588,7 +6100,9 @@
         "decade": 2000
     },
     {
-        "title": "Mr. Woodcock",
+        "title": [
+            "Mr. Woodcock"
+        ],
         "directors": [
             "Craig Gillespie"
         ],
@@ -5609,7 +6123,9 @@
         "decade": 2000
     },
     {
-        "title": "Sparkle",
+        "title": [
+            "Sparkle"
+        ],
         "directors": [
             "Sam O'Steen"
         ],
@@ -5628,7 +6144,9 @@
         "decade": 1970
     },
     {
-        "title": "The Gathering",
+        "title": [
+            "The Gathering"
+        ],
         "directors": [
             "Nia Dinata"
         ],
@@ -5650,7 +6168,9 @@
         "decade": 2000
     },
     {
-        "title": "Playing for Time",
+        "title": [
+            "Playing for Time"
+        ],
         "directors": [
             "Daniel Mann",
             "Joseph Sargent"
@@ -5673,7 +6193,9 @@
         "decade": 1980
     },
     {
-        "title": "The Spiderwick Chronicles",
+        "title": [
+            "The Spiderwick Chronicles"
+        ],
         "directors": [
             "Mark Waters"
         ],
@@ -5694,7 +6216,9 @@
         "decade": 2000
     },
     {
-        "title": "Patriot Games",
+        "title": [
+            "Patriot Games"
+        ],
         "directors": [
             "Phillip Noyce"
         ],
@@ -5717,7 +6241,9 @@
         "decade": 1990
     },
     {
-        "title": "Superstar",
+        "title": [
+            "Superstar"
+        ],
         "directors": [
             "Bruce McCulloch"
         ],
@@ -5740,7 +6266,9 @@
         "decade": 1990
     },
     {
-        "title": "Qila",
+        "title": [
+            "Qila"
+        ],
         "directors": [
             "Umesh Mehra"
         ],
@@ -5758,7 +6286,9 @@
         "decade": 1990
     },
     {
-        "title": "Ek Jaan Hain Hum",
+        "title": [
+            "Ek Jaan Hain Hum"
+        ],
         "directors": [
             "Rajiv Mehra"
         ],
@@ -5778,7 +6308,9 @@
         "decade": 1980
     },
     {
-        "title": "Anger Management",
+        "title": [
+            "Anger Management"
+        ],
         "directors": [
             "Peter Segal"
         ],
@@ -5803,7 +6335,9 @@
         "decade": 2000
     },
     {
-        "title": "Unaccompanied Minors",
+        "title": [
+            "Unaccompanied Minors"
+        ],
         "directors": [
             "Paul Feig"
         ],
@@ -5825,7 +6359,9 @@
         "decade": 2000
     },
     {
-        "title": "Coraline",
+        "title": [
+            "Coraline"
+        ],
         "directors": [
             "Henry Selick"
         ],
@@ -5845,7 +6381,9 @@
         "decade": 2000
     },
     {
-        "title": "Æon Flux",
+        "title": [
+            "Æon Flux"
+        ],
         "directors": [
             "Karyn Kusama"
         ],
@@ -5868,7 +6406,9 @@
         "decade": 2000
     },
     {
-        "title": "Cleopatra Jones",
+        "title": [
+            "Cleopatra Jones"
+        ],
         "directors": [
             "Jack Starrett"
         ],
@@ -5885,7 +6425,9 @@
         "decade": 1970
     },
     {
-        "title": "Exit Wounds",
+        "title": [
+            "Exit Wounds"
+        ],
         "directors": [
             "Andrzej Bartkowiak"
         ],
@@ -5908,7 +6450,9 @@
         "decade": 2000
     },
     {
-        "title": "The Craft",
+        "title": [
+            "The Craft"
+        ],
         "directors": [
             "Andrew Fleming"
         ],
@@ -5930,7 +6474,9 @@
         "decade": 1990
     },
     {
-        "title": "Enter the Dragon",
+        "title": [
+            "Enter the Dragon"
+        ],
         "directors": [
             "Robert Clouse"
         ],
@@ -5953,7 +6499,9 @@
         "decade": 1970
     },
     {
-        "title": "The Natural",
+        "title": [
+            "The Natural"
+        ],
         "directors": [
             "Barry Levinson"
         ],
@@ -5975,7 +6523,9 @@
         "decade": 1980
     },
     {
-        "title": "Fullmetal Alchemist",
+        "title": [
+            "Fullmetal Alchemist"
+        ],
         "directors": [],
         "cast": [
             "Romi Park",
@@ -6005,7 +6555,9 @@
         "decade": 2000
     },
     {
-        "title": "The Bare-Footed Kid",
+        "title": [
+            "The Bare-Footed Kid"
+        ],
         "directors": [
             "Johnnie To"
         ],
@@ -6023,7 +6575,9 @@
         "decade": 1990
     },
     {
-        "title": "Money Talks",
+        "title": [
+            "Money Talks"
+        ],
         "directors": [
             "Brett Ratner"
         ],
@@ -6044,7 +6598,9 @@
         "decade": 1990
     },
     {
-        "title": "Vientos de agua",
+        "title": [
+            "Vientos de agua"
+        ],
         "directors": [],
         "cast": [
             "Ernesto Alterio",
@@ -6063,7 +6619,9 @@
         "decade": 2000
     },
     {
-        "title": "The Young Vagabond",
+        "title": [
+            "The Young Vagabond"
+        ],
         "directors": [
             "Sze Yu Lau"
         ],
@@ -6084,7 +6642,9 @@
         "decade": 1980
     },
     {
-        "title": "Knowing",
+        "title": [
+            "Knowing"
+        ],
         "directors": [
             "Alex Proyas"
         ],
@@ -6104,7 +6664,9 @@
         "decade": 2000
     },
     {
-        "title": "Stripes",
+        "title": [
+            "Stripes"
+        ],
         "directors": [
             "Ivan Reitman"
         ],
@@ -6127,7 +6689,9 @@
         "decade": 1980
     },
     {
-        "title": "Raja Hindustani",
+        "title": [
+            "Raja Hindustani"
+        ],
         "directors": [
             "Dharmesh Darshan"
         ],
@@ -6148,7 +6712,9 @@
         "decade": 1990
     },
     {
-        "title": "The Score",
+        "title": [
+            "The Score"
+        ],
         "directors": [
             "Frank Oz"
         ],
@@ -6168,7 +6734,9 @@
         "decade": 2000
     },
     {
-        "title": "Class of '61",
+        "title": [
+            "Class of '61"
+        ],
         "directors": [
             "Gregory Hoblit"
         ],
@@ -6188,7 +6756,9 @@
         "decade": 1990
     },
     {
-        "title": "Zoom",
+        "title": [
+            "Zoom"
+        ],
         "directors": [
             "Peter Hewitt"
         ],
@@ -6209,7 +6779,9 @@
         "decade": 2000
     },
     {
-        "title": "All the Boys Love Mandy Lane",
+        "title": [
+            "All the Boys Love Mandy Lane"
+        ],
         "directors": [
             "Jonathan Levine"
         ],
@@ -6230,7 +6802,9 @@
         "decade": 2000
     },
     {
-        "title": "Blow",
+        "title": [
+            "Blow"
+        ],
         "directors": [
             "Ted Demme"
         ],
@@ -6252,7 +6826,9 @@
         "decade": 2000
     },
     {
-        "title": "The Super Mario Bros. Super Show!",
+        "title": [
+            "The Super Mario Bros. Super Show!"
+        ],
         "directors": [],
         "cast": [
             "Captain Lou Albano",
@@ -6271,7 +6847,9 @@
         "decade": 1980
     },
     {
-        "title": "Too Young the Hero",
+        "title": [
+            "Too Young the Hero"
+        ],
         "directors": [
             "Buzz Kulik"
         ],
@@ -6290,7 +6868,9 @@
         "decade": 1980
     },
     {
-        "title": "Masoom",
+        "title": [
+            "Masoom"
+        ],
         "directors": [
             "Shekhar Kapur"
         ],
@@ -6310,7 +6890,9 @@
         "decade": 1980
     },
     {
-        "title": "Swordfish",
+        "title": [
+            "Swordfish"
+        ],
         "directors": [
             "Dominic Sena"
         ],
@@ -6332,7 +6914,9 @@
         "decade": 2000
     },
     {
-        "title": "The Phantom of the Opera",
+        "title": [
+            "The Phantom of the Opera"
+        ],
         "directors": [
             "Joel Schumacher"
         ],
@@ -6353,7 +6937,9 @@
         "decade": 2000
     },
     {
-        "title": "Paid in Full",
+        "title": [
+            "Paid in Full"
+        ],
         "directors": [
             "Charles Stone III"
         ],
@@ -6376,7 +6962,9 @@
         "decade": 2000
     },
     {
-        "title": "Trailer Park Boys: The Movie",
+        "title": [
+            "Trailer Park Boys: The Movie"
+        ],
         "directors": [
             "Mike Clattenburg"
         ],
@@ -6403,7 +6991,9 @@
         "decade": 2000
     },
     {
-        "title": "Get Smart",
+        "title": [
+            "Get Smart"
+        ],
         "directors": [
             "Peter Segal"
         ],
@@ -6426,7 +7016,9 @@
         "decade": 2000
     },
     {
-        "title": "Neon Genesis Evangelion",
+        "title": [
+            "Neon Genesis Evangelion"
+        ],
         "directors": [],
         "cast": [
             "Megumi Ogata",
@@ -6451,7 +7043,9 @@
         "decade": 1990
     },
     {
-        "title": "Don",
+        "title": [
+            "Don"
+        ],
         "directors": [
             "Chandra Barot"
         ],
@@ -6473,7 +7067,9 @@
         "decade": 1970
     },
     {
-        "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+        "title": [
+            "Naruto the Movie: Ninja Clash in the Land of Snow"
+        ],
         "directors": [
             "Tensai Okamura"
         ],
@@ -6492,7 +7088,10 @@
         "decade": 2000
     },
     {
-        "title": "Lock, Stock and Two Smoking Barrels",
+        "title": [
+            "Lock",
+            "Stock and Two Smoking Barrels"
+        ],
         "directors": [
             "Guy Ritchie"
         ],
@@ -6514,7 +7113,9 @@
         "decade": 1990
     },
     {
-        "title": "Kicking and Screaming",
+        "title": [
+            "Kicking and Screaming"
+        ],
         "directors": [
             "Noah Baumbach"
         ],
@@ -6536,7 +7137,9 @@
         "decade": 1990
     },
     {
-        "title": "Hellboy",
+        "title": [
+            "Hellboy"
+        ],
         "directors": [
             "Guillermo del Toro"
         ],
@@ -6560,7 +7163,9 @@
         "decade": 2000
     },
     {
-        "title": "P.S. I Love You",
+        "title": [
+            "P.S. I Love You"
+        ],
         "directors": [
             "Richard LaGravenese"
         ],
@@ -6582,7 +7187,9 @@
         "decade": 2000
     },
     {
-        "title": "Dum",
+        "title": [
+            "Dum"
+        ],
         "directors": [
             "Eeshwar Nivas"
         ],
@@ -6602,7 +7209,9 @@
         "decade": 2000
     },
     {
-        "title": "Stuart Little 2",
+        "title": [
+            "Stuart Little 2"
+        ],
         "directors": [
             "Rob Minkoff"
         ],
@@ -6622,7 +7231,9 @@
         "decade": 2000
     },
     {
-        "title": "Rumble in the Bronx",
+        "title": [
+            "Rumble in the Bronx"
+        ],
         "directors": [
             "Stanley Tong"
         ],
@@ -6642,7 +7253,9 @@
         "decade": 1990
     },
     {
-        "title": "Red Dawn",
+        "title": [
+            "Red Dawn"
+        ],
         "directors": [
             "John Milius"
         ],
@@ -6664,7 +7277,9 @@
         "decade": 1980
     },
     {
-        "title": "Chitty Chitty Bang Bang",
+        "title": [
+            "Chitty Chitty Bang Bang"
+        ],
         "directors": [
             "Ken Hughes"
         ],
@@ -6691,7 +7306,9 @@
         "decade": 1960
     },
     {
-        "title": "Sin City",
+        "title": [
+            "Sin City"
+        ],
         "directors": [
             "Robert Rodriguez",
             "Frank Miller"
@@ -6721,7 +7338,9 @@
         "decade": 2000
     },
     {
-        "title": "Yaar Gaddar",
+        "title": [
+            "Yaar Gaddar"
+        ],
         "directors": [
             "Umesh Mehra"
         ],
@@ -6743,7 +7362,9 @@
         "decade": 1990
     },
     {
-        "title": "Power Rangers Lightspeed Rescue",
+        "title": [
+            "Power Rangers Lightspeed Rescue"
+        ],
         "directors": [],
         "cast": [
             "Michael Chaturantabut",
@@ -6763,7 +7384,9 @@
         "decade": 2000
     },
     {
-        "title": "Magnolia",
+        "title": [
+            "Magnolia"
+        ],
         "directors": [
             "Paul Thomas Anderson"
         ],
@@ -6790,7 +7413,9 @@
         "decade": 1990
     },
     {
-        "title": "Indiana Jones and the Temple of Doom",
+        "title": [
+            "Indiana Jones and the Temple of Doom"
+        ],
         "directors": [
             "Steven Spielberg"
         ],
@@ -6812,7 +7437,9 @@
         "decade": 1980
     },
     {
-        "title": "Aakhri Adaalat",
+        "title": [
+            "Aakhri Adaalat"
+        ],
         "directors": [
             "Rajiv Mehra"
         ],
@@ -6832,7 +7459,9 @@
         "decade": 1980
     },
     {
-        "title": "Philadelphia",
+        "title": [
+            "Philadelphia"
+        ],
         "directors": [
             "Jonathan Demme"
         ],
@@ -6854,7 +7483,9 @@
         "decade": 1990
     },
     {
-        "title": "Jimmy Neutron: Boy Genius",
+        "title": [
+            "Jimmy Neutron: Boy Genius"
+        ],
         "directors": [
             "John A. Davis"
         ],
@@ -6878,7 +7509,9 @@
         "decade": 2000
     },
     {
-        "title": "The Lake House",
+        "title": [
+            "The Lake House"
+        ],
         "directors": [
             "Alejandro Agresti"
         ],
@@ -6898,7 +7531,9 @@
         "decade": 2000
     },
     {
-        "title": "An American Tail: Fievel Goes West",
+        "title": [
+            "An American Tail: Fievel Goes West"
+        ],
         "directors": [
             "Phil Nibbelink",
             "Simon Wells"
@@ -6920,7 +7555,9 @@
         "decade": 1990
     },
     {
-        "title": "Final Destination",
+        "title": [
+            "Final Destination"
+        ],
         "directors": [
             "James Wong"
         ],
@@ -6942,7 +7579,9 @@
         "decade": 2000
     },
     {
-        "title": "Monster House",
+        "title": [
+            "Monster House"
+        ],
         "directors": [
             "Gil Kenan"
         ],
@@ -6966,7 +7605,9 @@
         "decade": 2000
     },
     {
-        "title": "Love Jones",
+        "title": [
+            "Love Jones"
+        ],
         "directors": [
             "Theodore Witcher"
         ],
@@ -6986,7 +7627,9 @@
         "decade": 1990
     },
     {
-        "title": "Mr. Virgin",
+        "title": [
+            "Mr. Virgin"
+        ],
         "directors": [
             "Anthony Chan"
         ],
@@ -7003,7 +7646,9 @@
         "decade": 1980
     },
     {
-        "title": "Love on Delivery",
+        "title": [
+            "Love on Delivery"
+        ],
         "directors": [
             "Stephen Chow"
         ],
@@ -7018,7 +7663,9 @@
         "decade": 1990
     },
     {
-        "title": "Candyman",
+        "title": [
+            "Candyman"
+        ],
         "directors": [
             "Bernard Rose"
         ],
@@ -7038,7 +7685,9 @@
         "decade": 1990
     },
     {
-        "title": "North & South",
+        "title": [
+            "North & South"
+        ],
         "directors": [],
         "cast": [
             "Daniela Denby-Ashe",
@@ -7058,7 +7707,9 @@
         "decade": 2000
     },
     {
-        "title": "Bewafaa",
+        "title": [
+            "Bewafaa"
+        ],
         "directors": [
             "Dharmesh Darshan"
         ],
@@ -7081,7 +7732,9 @@
         "decade": 2000
     },
     {
-        "title": "Guru",
+        "title": [
+            "Guru"
+        ],
         "directors": [
             "Mani Ratnam"
         ],
@@ -7103,7 +7756,9 @@
         "decade": 2000
     },
     {
-        "title": "The Lord of the Rings: The Return of the King",
+        "title": [
+            "The Lord of the Rings: The Return of the King"
+        ],
         "directors": [
             "Peter Jackson"
         ],
@@ -7127,7 +7782,9 @@
         "decade": 2000
     },
     {
-        "title": "Swades",
+        "title": [
+            "Swades"
+        ],
         "directors": [
             "Ashutosh Gowariker"
         ],
@@ -7147,7 +7804,9 @@
         "decade": 2000
     },
     {
-        "title": "Legendary Weapons of China",
+        "title": [
+            "Legendary Weapons of China"
+        ],
         "directors": [
             "Chia-Liang Liu"
         ],
@@ -7166,7 +7825,9 @@
         "decade": 1980
     },
     {
-        "title": "Gangs of New York",
+        "title": [
+            "Gangs of New York"
+        ],
         "directors": [
             "Martin Scorsese"
         ],
@@ -7188,7 +7849,9 @@
         "decade": 2000
     },
     {
-        "title": "Insan",
+        "title": [
+            "Insan"
+        ],
         "directors": [
             "K. Subhash"
         ],
@@ -7210,7 +7873,9 @@
         "decade": 2000
     },
     {
-        "title": "Catch Me If You Can",
+        "title": [
+            "Catch Me If You Can"
+        ],
         "directors": [
             "Steven Spielberg"
         ],
@@ -7232,7 +7897,9 @@
         "decade": 2000
     },
     {
-        "title": "The Cincinnati Kid",
+        "title": [
+            "The Cincinnati Kid"
+        ],
         "directors": [
             "Norman Jewison"
         ],
@@ -7255,7 +7922,9 @@
         "decade": 1960
     },
     {
-        "title": "The Brave One",
+        "title": [
+            "The Brave One"
+        ],
         "directors": [
             "Neil Jordan"
         ],
@@ -7277,7 +7946,9 @@
         "decade": 2000
     },
     {
-        "title": "Across the Universe",
+        "title": [
+            "Across the Universe"
+        ],
         "directors": [
             "Julie Taymor"
         ],
@@ -7297,7 +7968,9 @@
         "decade": 2000
     },
     {
-        "title": "The Negro Soldier",
+        "title": [
+            "The Negro Soldier"
+        ],
         "directors": [
             "Stuart Heisler"
         ],
@@ -7308,7 +7981,9 @@
         "decade": 1940
     },
     {
-        "title": "Jaal",
+        "title": [
+            "Jaal"
+        ],
         "directors": [
             "Umesh Mehra"
         ],
@@ -7328,7 +8003,9 @@
         "decade": 1980
     },
     {
-        "title": "Evan Almighty",
+        "title": [
+            "Evan Almighty"
+        ],
         "directors": [
             "Tom Shadyac"
         ],
@@ -7351,7 +8028,9 @@
         "decade": 2000
     },
     {
-        "title": "Ghulam-E-Musthafa",
+        "title": [
+            "Ghulam-E-Musthafa"
+        ],
         "directors": [
             "Partho Ghosh"
         ],
@@ -7373,7 +8052,9 @@
         "decade": 1990
     },
     {
-        "title": "Jay and Silent Bob Strike Back",
+        "title": [
+            "Jay and Silent Bob Strike Back"
+        ],
         "directors": [
             "Kevin Smith"
         ],
@@ -7396,7 +8077,9 @@
         "decade": 2000
     },
     {
-        "title": "Like Water for Chocolate",
+        "title": [
+            "Like Water for Chocolate"
+        ],
         "directors": [
             "Alfonso Arau"
         ],
@@ -7416,7 +8099,9 @@
         "decade": 1990
     },
     {
-        "title": "Kabhi Haan Kabhi Naa",
+        "title": [
+            "Kabhi Haan Kabhi Naa"
+        ],
         "directors": [
             "Kundan Shah"
         ],
@@ -7438,7 +8123,9 @@
         "decade": 1990
     },
     {
-        "title": "The Lives of Others",
+        "title": [
+            "The Lives of Others"
+        ],
         "directors": [
             "Florian Henckel von Donnersmarck"
         ],
@@ -7459,7 +8146,9 @@
         "decade": 2000
     },
     {
-        "title": "Grease",
+        "title": [
+            "Grease"
+        ],
         "directors": [
             "Randal Kleiser"
         ],
@@ -7486,7 +8175,9 @@
         "decade": 1970
     },
     {
-        "title": "Chalte Chalte",
+        "title": [
+            "Chalte Chalte"
+        ],
         "directors": [
             "Aziz Mirza"
         ],
@@ -7506,7 +8197,9 @@
         "decade": 2000
     },
     {
-        "title": "The Mask of Zorro",
+        "title": [
+            "The Mask of Zorro"
+        ],
         "directors": [
             "Martin Campbell"
         ],
@@ -7528,7 +8221,9 @@
         "decade": 1990
     },
     {
-        "title": "American Psycho",
+        "title": [
+            "American Psycho"
+        ],
         "directors": [
             "Mary Harron"
         ],
@@ -7552,7 +8247,9 @@
         "decade": 2000
     },
     {
-        "title": "Tunisian Victory",
+        "title": [
+            "Tunisian Victory"
+        ],
         "directors": [
             "Frank Capra",
             "John Huston",
@@ -7569,7 +8266,9 @@
         "decade": 1940
     },
     {
-        "title": "Christmas with the Kranks",
+        "title": [
+            "Christmas with the Kranks"
+        ],
         "directors": [
             "Joe Roth"
         ],
@@ -7591,7 +8290,9 @@
         "decade": 2000
     },
     {
-        "title": "It Takes Two",
+        "title": [
+            "It Takes Two"
+        ],
         "directors": [
             "Andy Tennant"
         ],
@@ -7609,7 +8310,9 @@
         "decade": 1990
     },
     {
-        "title": "Dil Hai Tumhaara",
+        "title": [
+            "Dil Hai Tumhaara"
+        ],
         "directors": [
             "Kundan Shah"
         ],
@@ -7629,7 +8332,9 @@
         "decade": 2000
     },
     {
-        "title": "The Interview",
+        "title": [
+            "The Interview"
+        ],
         "directors": [
             "Craig Monahan"
         ],
@@ -7647,7 +8352,9 @@
         "decade": 1990
     },
     {
-        "title": "Shabd",
+        "title": [
+            "Shabd"
+        ],
         "directors": [
             "Leena Yadav"
         ],
@@ -7665,7 +8372,9 @@
         "decade": 2000
     },
     {
-        "title": "Dinner for Schmucks",
+        "title": [
+            "Dinner for Schmucks"
+        ],
         "directors": [
             "Jay Roach"
         ],
@@ -7689,7 +8398,9 @@
         "decade": 2010
     },
     {
-        "title": "The Original Kings of Comedy",
+        "title": [
+            "The Original Kings of Comedy"
+        ],
         "directors": [
             "Spike Lee"
         ],
@@ -7705,7 +8416,9 @@
         "decade": 2000
     },
     {
-        "title": "Darna Mana Hai",
+        "title": [
+            "Darna Mana Hai"
+        ],
         "directors": [
             "Prawal Raman"
         ],
@@ -7731,7 +8444,9 @@
         "decade": 2000
     },
     {
-        "title": "Scream 3",
+        "title": [
+            "Scream 3"
+        ],
         "directors": [
             "Wes Craven"
         ],
@@ -7758,7 +8473,9 @@
         "decade": 2000
     },
     {
-        "title": "3 Deewarein",
+        "title": [
+            "3 Deewarein"
+        ],
         "directors": [
             "Nagesh Kukunoor"
         ],
@@ -7777,7 +8494,9 @@
         "decade": 2000
     },
     {
-        "title": "Kung Fu Hustle",
+        "title": [
+            "Kung Fu Hustle"
+        ],
         "directors": [
             "Stephen Chow"
         ],
@@ -7801,7 +8520,9 @@
         "decade": 2000
     },
     {
-        "title": "Bad Boys II",
+        "title": [
+            "Bad Boys II"
+        ],
         "directors": [
             "Michael Bay"
         ],
@@ -7823,7 +8544,9 @@
         "decade": 2000
     },
     {
-        "title": "King's Ransom",
+        "title": [
+            "King's Ransom"
+        ],
         "directors": [
             "Jeffrey W. Byrd"
         ],
@@ -7845,7 +8568,9 @@
         "decade": 2000
     },
     {
-        "title": "Vizontele",
+        "title": [
+            "Vizontele"
+        ],
         "directors": [
             "Yılmaz Erdoğan",
             "Ömer Faruk Sorak"
@@ -7868,7 +8593,9 @@
         "decade": 2000
     },
     {
-        "title": "Swami",
+        "title": [
+            "Swami"
+        ],
         "directors": [
             "Basu Chatterjee"
         ],
@@ -7888,7 +8615,9 @@
         "decade": 1970
     },
     {
-        "title": "Big Fat Liar",
+        "title": [
+            "Big Fat Liar"
+        ],
         "directors": [
             "Shawn Levy"
         ],
@@ -7911,7 +8640,9 @@
         "decade": 2000
     },
     {
-        "title": "Heartbreakers",
+        "title": [
+            "Heartbreakers"
+        ],
         "directors": [
             "David Mirkin"
         ],
@@ -7933,7 +8664,9 @@
         "decade": 2000
     },
     {
-        "title": "Ghost Rider",
+        "title": [
+            "Ghost Rider"
+        ],
         "directors": [
             "Mark Steven Johnson"
         ],
@@ -7955,7 +8688,9 @@
         "decade": 2000
     },
     {
-        "title": "Zodiac",
+        "title": [
+            "Zodiac"
+        ],
         "directors": [
             "David Fincher"
         ],
@@ -7977,7 +8712,9 @@
         "decade": 2000
     },
     {
-        "title": "Austin Powers in Goldmember",
+        "title": [
+            "Austin Powers in Goldmember"
+        ],
         "directors": [
             "Jay Roach"
         ],
@@ -7998,7 +8735,9 @@
         "decade": 2000
     },
     {
-        "title": "Kate & Leopold",
+        "title": [
+            "Kate & Leopold"
+        ],
         "directors": [
             "James Mangold"
         ],
@@ -8020,7 +8759,9 @@
         "decade": 2000
     },
     {
-        "title": "Stuart Little",
+        "title": [
+            "Stuart Little"
+        ],
         "directors": [
             "Rob Minkoff"
         ],
@@ -8037,7 +8778,9 @@
         "decade": 1990
     },
     {
-        "title": "The President's Barber",
+        "title": [
+            "The President's Barber"
+        ],
         "directors": [
             "Chan-sang Lim"
         ],
@@ -8059,7 +8802,9 @@
         "decade": 2000
     },
     {
-        "title": "Taxi Driver",
+        "title": [
+            "Taxi Driver"
+        ],
         "directors": [
             "Martin Scorsese"
         ],
@@ -8083,7 +8828,9 @@
         "decade": 1970
     },
     {
-        "title": "Prince Charming",
+        "title": [
+            "Prince Charming"
+        ],
         "directors": [
             "Wong Jing"
         ],
@@ -8100,7 +8847,9 @@
         "decade": 1980
     },
     {
-        "title": "Sadma",
+        "title": [
+            "Sadma"
+        ],
         "directors": [
             "Balu Mahendra"
         ],
@@ -8118,7 +8867,9 @@
         "decade": 1980
     },
     {
-        "title": "Shaka Zulu",
+        "title": [
+            "Shaka Zulu"
+        ],
         "directors": [],
         "cast": [
             "Edward Fox",
@@ -8143,7 +8894,9 @@
         "decade": 1980
     },
     {
-        "title": "Robotech",
+        "title": [
+            "Robotech"
+        ],
         "directors": [],
         "cast": [
             "Jean-Claude Ballard",
@@ -8161,7 +8914,9 @@
         "decade": 1980
     },
     {
-        "title": "Ek Khiladi Ek Haseena",
+        "title": [
+            "Ek Khiladi Ek Haseena"
+        ],
         "directors": [
             "Suparn Verma"
         ],
@@ -8183,7 +8938,9 @@
         "decade": 2000
     },
     {
-        "title": "Brick",
+        "title": [
+            "Brick"
+        ],
         "directors": [
             "Rian Johnson"
         ],
@@ -8205,7 +8962,9 @@
         "decade": 2000
     },
     {
-        "title": "Godzilla",
+        "title": [
+            "Godzilla"
+        ],
         "directors": [
             "Roland Emmerich"
         ],
@@ -8228,7 +8987,9 @@
         "decade": 1990
     },
     {
-        "title": "The Matrix Revolutions",
+        "title": [
+            "The Matrix Revolutions"
+        ],
         "directors": [
             "Lilly Wachowski",
             "Lana Wachowski"
@@ -8252,7 +9013,9 @@
         "decade": 2000
     },
     {
-        "title": "Harold & Kumar Escape from Guantanamo Bay",
+        "title": [
+            "Harold & Kumar Escape from Guantanamo Bay"
+        ],
         "directors": [
             "Jon Hurwitz",
             "Hayden Schlossberg"
@@ -8276,7 +9039,9 @@
         "decade": 2000
     },
     {
-        "title": "Dante's Peak",
+        "title": [
+            "Dante's Peak"
+        ],
         "directors": [
             "Roger Donaldson"
         ],
@@ -8298,7 +9063,9 @@
         "decade": 1990
     },
     {
-        "title": "9",
+        "title": [
+            "9"
+        ],
         "directors": [
             "Shane Acker"
         ],
@@ -8319,7 +9086,9 @@
         "decade": 2000
     },
     {
-        "title": "Oh Darling Yeh Hai India",
+        "title": [
+            "Oh Darling Yeh Hai India"
+        ],
         "directors": [
             "Ketan Mehta"
         ],
@@ -8341,7 +9110,9 @@
         "decade": 1990
     },
     {
-        "title": "Final Destination 3",
+        "title": [
+            "Final Destination 3"
+        ],
         "directors": [
             "James Wong"
         ],
@@ -8364,7 +9135,9 @@
         "decade": 2000
     },
     {
-        "title": "Bee Movie",
+        "title": [
+            "Bee Movie"
+        ],
         "directors": [
             "Steve Hickner",
             "Simon J. Smith"
@@ -8387,7 +9160,9 @@
         "decade": 2000
     },
     {
-        "title": "Jimi Hendrix",
+        "title": [
+            "Jimi Hendrix"
+        ],
         "directors": [
             "Joe Boyd"
         ],
@@ -8402,7 +9177,9 @@
         "decade": 1970
     },
     {
-        "title": "Five Elements Ninjas",
+        "title": [
+            "Five Elements Ninjas"
+        ],
         "directors": [
             "Cheh Chang"
         ],
@@ -8421,7 +9198,9 @@
         "decade": 1980
     },
     {
-        "title": "Unspeakable Acts",
+        "title": [
+            "Unspeakable Acts"
+        ],
         "directors": [
             "Linda Otto"
         ],
@@ -8436,7 +9215,9 @@
         "decade": 1990
     },
     {
-        "title": "Spy Kids",
+        "title": [
+            "Spy Kids"
+        ],
         "directors": [
             "Robert Rodriguez"
         ],
@@ -8458,7 +9239,9 @@
         "decade": 2000
     },
     {
-        "title": "Mansfield Park",
+        "title": [
+            "Mansfield Park"
+        ],
         "directors": [
             "Patricia Rozema"
         ],
@@ -8480,7 +9263,9 @@
         "decade": 1990
     },
     {
-        "title": "Black Hawk Down",
+        "title": [
+            "Black Hawk Down"
+        ],
         "directors": [
             "Ridley Scott"
         ],
@@ -8512,7 +9297,9 @@
         "decade": 2000
     },
     {
-        "title": "Fracture",
+        "title": [
+            "Fracture"
+        ],
         "directors": [
             "Gregory Hoblit"
         ],
@@ -8534,7 +9321,9 @@
         "decade": 2000
     },
     {
-        "title": "Barsaat",
+        "title": [
+            "Barsaat"
+        ],
         "directors": [
             "Rajkumar Santoshi"
         ],
@@ -8553,7 +9342,9 @@
         "decade": 1990
     },
     {
-        "title": "Schindler's List",
+        "title": [
+            "Schindler's List"
+        ],
         "directors": [
             "Steven Spielberg"
         ],
@@ -8577,7 +9368,9 @@
         "decade": 1990
     },
     {
-        "title": "Where the Money Is",
+        "title": [
+            "Where the Money Is"
+        ],
         "directors": [
             "Marek Kanievska"
         ],
@@ -8599,7 +9392,9 @@
         "decade": 2000
     },
     {
-        "title": "One Last Shot",
+        "title": [
+            "One Last Shot"
+        ],
         "directors": [
             "Mike Clattenburg"
         ],
@@ -8614,7 +9409,9 @@
         "decade": 1990
     },
     {
-        "title": "Cirque du Freak: The Vampire's Assistant",
+        "title": [
+            "Cirque du Freak: The Vampire's Assistant"
+        ],
         "directors": [
             "Paul Weitz"
         ],
@@ -8643,7 +9440,9 @@
         "decade": 2000
     },
     {
-        "title": "Charlotte's Web",
+        "title": [
+            "Charlotte's Web"
+        ],
         "directors": [
             "Charles A. Nichols",
             "Iwao Takamoto"
@@ -8669,7 +9468,9 @@
         "decade": 1970
     },
     {
-        "title": "Gol Maal",
+        "title": [
+            "Gol Maal"
+        ],
         "directors": [
             "Hrishikesh Mukherjee"
         ],
@@ -8691,7 +9492,9 @@
         "decade": 1970
     },
     {
-        "title": "Harold & Kumar Go to White Castle",
+        "title": [
+            "Harold & Kumar Go to White Castle"
+        ],
         "directors": [
             "Danny Leiner"
         ],
@@ -8712,7 +9515,9 @@
         "decade": 2000
     },
     {
-        "title": "Equilibrium",
+        "title": [
+            "Equilibrium"
+        ],
         "directors": [
             "Kurt Wimmer"
         ],
@@ -8732,7 +9537,9 @@
         "decade": 2000
     },
     {
-        "title": "Mumbai Matinee",
+        "title": [
+            "Mumbai Matinee"
+        ],
         "directors": [
             "Anant Balani"
         ],
@@ -8751,7 +9558,9 @@
         "decade": 2000
     },
     {
-        "title": "The Stranger",
+        "title": [
+            "The Stranger"
+        ],
         "directors": [
             "Orson Welles"
         ],
@@ -8771,7 +9580,9 @@
         "decade": 1940
     },
     {
-        "title": "City of God",
+        "title": [
+            "City of God"
+        ],
         "directors": [
             "Fernando Meirelles",
             "Katia Lund"
@@ -8793,7 +9604,9 @@
         "decade": 2000
     },
     {
-        "title": "Singapore",
+        "title": [
+            "Singapore"
+        ],
         "directors": [
             "Shakti Samanta"
         ],
@@ -8813,7 +9626,9 @@
         "decade": 1960
     },
     {
-        "title": "She's Gotta Have It",
+        "title": [
+            "She's Gotta Have It"
+        ],
         "directors": [
             "Spike Lee"
         ],
@@ -8835,7 +9650,9 @@
         "decade": 1980
     },
     {
-        "title": "G-Force",
+        "title": [
+            "G-Force"
+        ],
         "directors": [
             "Hoyt Yeatman"
         ],
@@ -8863,7 +9680,9 @@
         "decade": 2000
     },
     {
-        "title": "The Time Machine",
+        "title": [
+            "The Time Machine"
+        ],
         "directors": [
             "Simon Wells"
         ],
@@ -8885,7 +9704,9 @@
         "decade": 2000
     },
     {
-        "title": "Power Rangers Ninja Storm",
+        "title": [
+            "Power Rangers Ninja Storm"
+        ],
         "directors": [],
         "cast": [
             "Pua Magasiva",
@@ -8907,7 +9728,9 @@
         "decade": 2000
     },
     {
-        "title": "Young Tiger",
+        "title": [
+            "Young Tiger"
+        ],
         "directors": [
             "Mu Chu"
         ],
@@ -8924,7 +9747,9 @@
         "decade": 1970
     },
     {
-        "title": "Paris Is Burning",
+        "title": [
+            "Paris Is Burning"
+        ],
         "directors": [
             "Jennie Livingston"
         ],
@@ -8935,7 +9760,9 @@
         "decade": 1990
     },
     {
-        "title": "Lolita",
+        "title": [
+            "Lolita"
+        ],
         "directors": [
             "Stanley Kubrick"
         ],
@@ -8956,7 +9783,9 @@
         "decade": 1960
     },
     {
-        "title": "Willy Wonka & the Chocolate Factory",
+        "title": [
+            "Willy Wonka & the Chocolate Factory"
+        ],
         "directors": [
             "Mel Stuart"
         ],
@@ -8978,7 +9807,9 @@
         "decade": 1970
     },
     {
-        "title": "New York Minute",
+        "title": [
+            "New York Minute"
+        ],
         "directors": [
             "Dennie Gordon"
         ],
@@ -9003,7 +9834,9 @@
         "decade": 2000
     },
     {
-        "title": "The Blue Umbrella",
+        "title": [
+            "The Blue Umbrella"
+        ],
         "directors": [
             "Vishal Bhardwaj"
         ],
@@ -9023,7 +9856,9 @@
         "decade": 2000
     },
     {
-        "title": "Perfect Stranger",
+        "title": [
+            "Perfect Stranger"
+        ],
         "directors": [
             "James Foley"
         ],
@@ -9045,7 +9880,9 @@
         "decade": 2000
     },
     {
-        "title": "The Flying Guillotine",
+        "title": [
+            "The Flying Guillotine"
+        ],
         "directors": [
             "Meng Hua Ho"
         ],
@@ -9062,7 +9899,9 @@
         "decade": 1970
     },
     {
-        "title": "Casino Tycoon",
+        "title": [
+            "Casino Tycoon"
+        ],
         "directors": [
             "Wong Jing"
         ],
@@ -9075,7 +9914,9 @@
         "decade": 1990
     },
     {
-        "title": "Panic Room",
+        "title": [
+            "Panic Room"
+        ],
         "directors": [
             "David Fincher"
         ],
@@ -9096,7 +9937,9 @@
         "decade": 2000
     },
     {
-        "title": "Bazaar",
+        "title": [
+            "Bazaar"
+        ],
         "directors": [
             "Sagar Sarhadi"
         ],
@@ -9115,7 +9958,9 @@
         "decade": 1980
     },
     {
-        "title": "Encounter: The Killing",
+        "title": [
+            "Encounter: The Killing"
+        ],
         "directors": [
             "Ajay Phansekar"
         ],
@@ -9133,7 +9978,9 @@
         "decade": 2000
     },
     {
-        "title": "Igor",
+        "title": [
+            "Igor"
+        ],
         "directors": [
             "Tony Leondis"
         ],
@@ -9152,7 +9999,9 @@
         "decade": 2000
     },
     {
-        "title": "John & Jane",
+        "title": [
+            "John & Jane"
+        ],
         "directors": [
             "Ashim Ahluwalia"
         ],
@@ -9163,7 +10012,9 @@
         "decade": 2000
     },
     {
-        "title": "Koshish",
+        "title": [
+            "Koshish"
+        ],
         "directors": [
             "Gulzar"
         ],
@@ -9181,7 +10032,9 @@
         "decade": 1970
     },
     {
-        "title": "Chup Chup Ke",
+        "title": [
+            "Chup Chup Ke"
+        ],
         "directors": [
             "Priyadarshan",
             "Kookie V. Gulati"
@@ -9202,7 +10055,9 @@
         "decade": 2000
     },
     {
-        "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "title": [
+            "Indiana Jones and the Kingdom of the Crystal Skull"
+        ],
         "directors": [
             "Steven Spielberg"
         ],
@@ -9222,7 +10077,9 @@
         "decade": 2000
     },
     {
-        "title": "Khubsoorat",
+        "title": [
+            "Khubsoorat"
+        ],
         "directors": [
             "Hrishikesh Mukherjee"
         ],
@@ -9243,7 +10100,9 @@
         "decade": 1980
     },
     {
-        "title": "White Christmas",
+        "title": [
+            "White Christmas"
+        ],
         "directors": [
             "Michael Curtiz"
         ],
@@ -9264,7 +10123,9 @@
         "decade": 1950
     },
     {
-        "title": "Loving Annabelle",
+        "title": [
+            "Loving Annabelle"
+        ],
         "directors": [
             "Katherine Brooks"
         ],
@@ -9284,7 +10145,9 @@
         "decade": 2000
     },
     {
-        "title": "Rocky III",
+        "title": [
+            "Rocky III"
+        ],
         "directors": [
             "Sylvester Stallone"
         ],
@@ -9305,7 +10168,9 @@
         "decade": 1980
     },
     {
-        "title": "Loving You",
+        "title": [
+            "Loving You"
+        ],
         "directors": [
             "Johnnie To"
         ],
@@ -9322,7 +10187,9 @@
         "decade": 1990
     },
     {
-        "title": "Shark Busters",
+        "title": [
+            "Shark Busters"
+        ],
         "directors": [
             "Herman Yau"
         ],
@@ -9344,7 +10211,9 @@
         "decade": 2000
     },
     {
-        "title": "Fallen",
+        "title": [
+            "Fallen"
+        ],
         "directors": [
             "Gregory Hoblit"
         ],
@@ -9365,7 +10234,9 @@
         "decade": 1990
     },
     {
-        "title": "Superman Returns",
+        "title": [
+            "Superman Returns"
+        ],
         "directors": [
             "Bryan Singer"
         ],
@@ -9387,7 +10258,9 @@
         "decade": 2000
     },
     {
-        "title": "How to Make an American Quilt",
+        "title": [
+            "How to Make an American Quilt"
+        ],
         "directors": [
             "Jocelyn Moorhouse"
         ],
@@ -9419,7 +10292,9 @@
         "decade": 1990
     },
     {
-        "title": "Austin Powers: The Spy Who Shagged Me",
+        "title": [
+            "Austin Powers: The Spy Who Shagged Me"
+        ],
         "directors": [
             "Jay Roach"
         ],
@@ -9441,7 +10316,9 @@
         "decade": 1990
     },
     {
-        "title": "Ninja Turtles: The Next Mutation",
+        "title": [
+            "Ninja Turtles: The Next Mutation"
+        ],
         "directors": [],
         "cast": [
             "Jarred Blancard",
@@ -9467,7 +10344,9 @@
         "decade": 1990
     },
     {
-        "title": "Brother's Shadow",
+        "title": [
+            "Brother's Shadow"
+        ],
         "directors": [
             "Todd S. Yellin"
         ],
@@ -9491,7 +10370,9 @@
         "decade": 2000
     },
     {
-        "title": "Junebug",
+        "title": [
+            "Junebug"
+        ],
         "directors": [
             "Phil Morrison"
         ],
@@ -9515,7 +10396,9 @@
         "decade": 2000
     },
     {
-        "title": "Quiet Victory: The Charlie Wedemeyer Story",
+        "title": [
+            "Quiet Victory: The Charlie Wedemeyer Story"
+        ],
         "directors": [
             "Roy Campanella II"
         ],
@@ -9533,7 +10416,9 @@
         "decade": 1980
     },
     {
-        "title": "Gie",
+        "title": [
+            "Gie"
+        ],
         "directors": [
             "Riri Riza"
         ],
@@ -9554,7 +10439,9 @@
         "decade": 2000
     },
     {
-        "title": "Die Another Day",
+        "title": [
+            "Die Another Day"
+        ],
         "directors": [
             "Lee Tamahori"
         ],
@@ -9581,7 +10468,9 @@
         "decade": 2000
     },
     {
-        "title": "Phir Bhi Dil Hai Hindustani",
+        "title": [
+            "Phir Bhi Dil Hai Hindustani"
+        ],
         "directors": [
             "Aziz Mirza"
         ],
@@ -9602,7 +10491,9 @@
         "decade": 2000
     },
     {
-        "title": "Rounders",
+        "title": [
+            "Rounders"
+        ],
         "directors": [
             "John Dahl"
         ],
@@ -9624,7 +10515,9 @@
         "decade": 1990
     },
     {
-        "title": "Company",
+        "title": [
+            "Company"
+        ],
         "directors": [
             "Ram Gopal Varma"
         ],
@@ -9646,7 +10539,9 @@
         "decade": 2000
     },
     {
-        "title": "The Crying Game",
+        "title": [
+            "The Crying Game"
+        ],
         "directors": [
             "Neil Jordan"
         ],
@@ -9668,7 +10563,9 @@
         "decade": 1990
     },
     {
-        "title": "Wild Wild West",
+        "title": [
+            "Wild Wild West"
+        ],
         "directors": [
             "Barry Sonnenfeld"
         ],
@@ -9690,7 +10587,9 @@
         "decade": 1990
     },
     {
-        "title": "Thunderbolt",
+        "title": [
+            "Thunderbolt"
+        ],
         "directors": [
             "William Wyler",
             "John Sturges"
@@ -9705,7 +10604,9 @@
         "decade": 1940
     },
     {
-        "title": "Jis Desh Men Ganga Behti Hai",
+        "title": [
+            "Jis Desh Men Ganga Behti Hai"
+        ],
         "directors": [
             "Radhu Karmakar"
         ],
@@ -9727,7 +10628,9 @@
         "decade": 1960
     },
     {
-        "title": "Eye for an Eye",
+        "title": [
+            "Eye for an Eye"
+        ],
         "directors": [
             "John Schlesinger"
         ],
@@ -9749,7 +10652,9 @@
         "decade": 1990
     },
     {
-        "title": "My Girl",
+        "title": [
+            "My Girl"
+        ],
         "directors": [
             "Howard Zieff"
         ],
@@ -9771,7 +10676,9 @@
         "decade": 1990
     },
     {
-        "title": "Kucch To Hai",
+        "title": [
+            "Kucch To Hai"
+        ],
         "directors": [
             "Anil V. Kumar"
         ],
@@ -9788,7 +10695,9 @@
         "decade": 2000
     },
     {
-        "title": "The Crow",
+        "title": [
+            "The Crow"
+        ],
         "directors": [
             "Alex Proyas"
         ],
@@ -9813,7 +10722,9 @@
         "decade": 1990
     },
     {
-        "title": "Popeye",
+        "title": [
+            "Popeye"
+        ],
         "directors": [
             "Robert Altman"
         ],
@@ -9835,7 +10746,9 @@
         "decade": 1980
     },
     {
-        "title": "Head On",
+        "title": [
+            "Head On"
+        ],
         "directors": [
             "Ana Kokkinos"
         ],
@@ -9859,7 +10772,9 @@
         "decade": 1990
     },
     {
-        "title": "Power Rangers Time Force",
+        "title": [
+            "Power Rangers Time Force"
+        ],
         "directors": [],
         "cast": [
             "Jason Faunt",
@@ -9881,7 +10796,9 @@
         "decade": 2000
     },
     {
-        "title": "The World Is Not Enough",
+        "title": [
+            "The World Is Not Enough"
+        ],
         "directors": [
             "Michael Apted"
         ],
@@ -9902,7 +10819,9 @@
         "decade": 1990
     },
     {
-        "title": "Benji's Very Own Christmas Story",
+        "title": [
+            "Benji's Very Own Christmas Story"
+        ],
         "directors": [
             "Joe Camp"
         ],
@@ -9917,7 +10836,9 @@
         "decade": 1970
     },
     {
-        "title": "Jodhaa Akbar",
+        "title": [
+            "Jodhaa Akbar"
+        ],
         "directors": [
             "Ashutosh Gowariker"
         ],
@@ -9938,7 +10859,9 @@
         "decade": 2000
     },
     {
-        "title": "The Flintstones in Viva Rock Vegas",
+        "title": [
+            "The Flintstones in Viva Rock Vegas"
+        ],
         "directors": [
             "Brian Levant"
         ],
@@ -9957,7 +10880,9 @@
         "decade": 2000
     },
     {
-        "title": "Ram Jaane",
+        "title": [
+            "Ram Jaane"
+        ],
         "directors": [
             "Rajiv Mehra"
         ],
@@ -9979,7 +10904,9 @@
         "decade": 1990
     },
     {
-        "title": "How the Grinch Stole Christmas",
+        "title": [
+            "How the Grinch Stole Christmas"
+        ],
         "directors": [
             "Ron Howard"
         ],
@@ -10001,7 +10928,9 @@
         "decade": 2000
     },
     {
-        "title": "Dil Chahta Hai",
+        "title": [
+            "Dil Chahta Hai"
+        ],
         "directors": [
             "Farhan Akhtar"
         ],
@@ -10023,7 +10952,9 @@
         "decade": 2000
     },
     {
-        "title": "Jaane Tu... Ya Jaane Na",
+        "title": [
+            "Jaane Tu... Ya Jaane Na"
+        ],
         "directors": [
             "Abbas Tyrewala"
         ],
@@ -10046,7 +10977,9 @@
         "decade": 2000
     },
     {
-        "title": "Krishna Cottage",
+        "title": [
+            "Krishna Cottage"
+        ],
         "directors": [
             "Santram Varma"
         ],
@@ -10062,7 +10995,9 @@
         "decade": 2000
     },
     {
-        "title": "English Babu Desi Mem",
+        "title": [
+            "English Babu Desi Mem"
+        ],
         "directors": [
             "Praveen Nischol"
         ],
@@ -10083,7 +11018,9 @@
         "decade": 1990
     },
     {
-        "title": "American History X",
+        "title": [
+            "American History X"
+        ],
         "directors": [
             "Tony Kaye"
         ],
@@ -10106,7 +11043,9 @@
         "decade": 1990
     },
     {
-        "title": "Tomorrow Never Dies",
+        "title": [
+            "Tomorrow Never Dies"
+        ],
         "directors": [
             "Roger Spottiswoode"
         ],
@@ -10128,7 +11067,9 @@
         "decade": 1990
     },
     {
-        "title": "Mean Streets",
+        "title": [
+            "Mean Streets"
+        ],
         "directors": [
             "Martin Scorsese"
         ],
@@ -10148,7 +11089,9 @@
         "decade": 1970
     },
     {
-        "title": "Penelope",
+        "title": [
+            "Penelope"
+        ],
         "directors": [
             "Mark Palansky"
         ],
@@ -10165,7 +11108,9 @@
         "decade": 2000
     },
     {
-        "title": "Ramji Londonwaley",
+        "title": [
+            "Ramji Londonwaley"
+        ],
         "directors": [
             "Sanjay Dayma"
         ],
@@ -10184,7 +11129,9 @@
         "decade": 2000
     },
     {
-        "title": "Sangam",
+        "title": [
+            "Sangam"
+        ],
         "directors": [
             "Raj Kapoor"
         ],
@@ -10204,7 +11151,9 @@
         "decade": 1960
     },
     {
-        "title": "Pulp Fiction",
+        "title": [
+            "Pulp Fiction"
+        ],
         "directors": [
             "Quentin Tarantino"
         ],
@@ -10228,7 +11177,9 @@
         "decade": 1990
     },
     {
-        "title": "The Gift",
+        "title": [
+            "The Gift"
+        ],
         "directors": [
             "Sam Raimi"
         ],
@@ -10253,7 +11204,9 @@
         "decade": 2000
     },
     {
-        "title": "The Mad Monk",
+        "title": [
+            "The Mad Monk"
+        ],
         "directors": [
             "Johnny To"
         ],
@@ -10271,7 +11224,9 @@
         "decade": 1990
     },
     {
-        "title": "Rocky II",
+        "title": [
+            "Rocky II"
+        ],
         "directors": [
             "Sylvester Stallone"
         ],
@@ -10293,7 +11248,9 @@
         "decade": 1970
     },
     {
-        "title": "Men in Black",
+        "title": [
+            "Men in Black"
+        ],
         "directors": [
             "Barry Sonnenfeld"
         ],
@@ -10315,7 +11272,9 @@
         "decade": 1990
     },
     {
-        "title": "The Rainmaker",
+        "title": [
+            "The Rainmaker"
+        ],
         "directors": [
             "Francis Ford Coppola"
         ],
@@ -10337,7 +11296,9 @@
         "decade": 1990
     },
     {
-        "title": "Da Kath & Kim Code",
+        "title": [
+            "Da Kath & Kim Code"
+        ],
         "directors": [
             "Ted Emery"
         ],
@@ -10354,7 +11315,9 @@
         "decade": 2000
     },
     {
-        "title": "Chasing Amy",
+        "title": [
+            "Chasing Amy"
+        ],
         "directors": [
             "Kevin Smith"
         ],
@@ -10372,7 +11335,9 @@
         "decade": 1990
     },
     {
-        "title": "The Lord of the Rings: The Two Towers",
+        "title": [
+            "The Lord of the Rings: The Two Towers"
+        ],
         "directors": [
             "Peter Jackson"
         ],
@@ -10396,7 +11361,9 @@
         "decade": 2000
     },
     {
-        "title": "Becoming Jane",
+        "title": [
+            "Becoming Jane"
+        ],
         "directors": [
             "Julian Jarrold"
         ],
@@ -10415,7 +11382,9 @@
         "decade": 2000
     },
     {
-        "title": "Strange Voices",
+        "title": [
+            "Strange Voices"
+        ],
         "directors": [
             "Arthur Allan Seidelman"
         ],
@@ -10432,7 +11401,9 @@
         "decade": 1980
     },
     {
-        "title": "The Evil Dead",
+        "title": [
+            "The Evil Dead"
+        ],
         "directors": [
             "Sam Raimi"
         ],
@@ -10455,7 +11426,9 @@
         "decade": 1980
     },
     {
-        "title": "Small Soldiers",
+        "title": [
+            "Small Soldiers"
+        ],
         "directors": [
             "Joe Dante"
         ],
@@ -10476,7 +11449,9 @@
         "decade": 1990
     },
     {
-        "title": "Balto",
+        "title": [
+            "Balto"
+        ],
         "directors": [
             "Simon Wells"
         ],
@@ -10496,7 +11471,9 @@
         "decade": 1990
     },
     {
-        "title": "Tremors",
+        "title": [
+            "Tremors"
+        ],
         "directors": [
             "Ron Underwood"
         ],
@@ -10520,7 +11497,10 @@
         "decade": 1990
     },
     {
-        "title": "Justice, My Foot!",
+        "title": [
+            "Justice",
+            "My Foot!"
+        ],
         "directors": [
             "Johnnie To"
         ],
@@ -10542,7 +11522,9 @@
         "decade": 1990
     },
     {
-        "title": "Kiss the Girls",
+        "title": [
+            "Kiss the Girls"
+        ],
         "directors": [
             "Gary Fleder"
         ],
@@ -10562,7 +11544,9 @@
         "decade": 1990
     },
     {
-        "title": "Maza Pati Karodpati",
+        "title": [
+            "Maza Pati Karodpati"
+        ],
         "directors": [
             "Sachin"
         ],
@@ -10583,7 +11567,9 @@
         "decade": 1980
     },
     {
-        "title": "Spider-Man 3",
+        "title": [
+            "Spider-Man 3"
+        ],
         "directors": [
             "Sam Raimi"
         ],
@@ -10609,7 +11595,9 @@
         "decade": 2000
     },
     {
-        "title": "Rugrats in Paris: The Movie",
+        "title": [
+            "Rugrats in Paris: The Movie"
+        ],
         "directors": [
             "Stig Bergqvist",
             "Paul Demeyer"
@@ -10636,7 +11624,9 @@
         "decade": 2000
     },
     {
-        "title": "The Croods",
+        "title": [
+            "The Croods"
+        ],
         "directors": [
             "Kirk De Micco",
             "Chris Sanders"
@@ -10657,7 +11647,9 @@
         "decade": 2010
     },
     {
-        "title": "Kyaa Kool Hai Hum",
+        "title": [
+            "Kyaa Kool Hai Hum"
+        ],
         "directors": [
             "Sangeeth Sivan"
         ],
@@ -10675,7 +11667,9 @@
         "decade": 2000
     },
     {
-        "title": "Sling Blade",
+        "title": [
+            "Sling Blade"
+        ],
         "directors": [
             "Billy Bob Thornton"
         ],
@@ -10697,7 +11691,9 @@
         "decade": 1990
     },
     {
-        "title": "Charlie's Angels",
+        "title": [
+            "Charlie's Angels"
+        ],
         "directors": [
             "McG"
         ],
@@ -10721,7 +11717,9 @@
         "decade": 2000
     },
     {
-        "title": "BASEketball",
+        "title": [
+            "BASEketball"
+        ],
         "directors": [
             "David Zucker"
         ],
@@ -10741,7 +11739,9 @@
         "decade": 1990
     },
     {
-        "title": "Inglourious Basterds",
+        "title": [
+            "Inglourious Basterds"
+        ],
         "directors": [
             "Quentin Tarantino"
         ],
@@ -10766,7 +11766,9 @@
         "decade": 2000
     },
     {
-        "title": "Jackie Brown",
+        "title": [
+            "Jackie Brown"
+        ],
         "directors": [
             "Quentin Tarantino"
         ],
@@ -10790,7 +11792,9 @@
         "decade": 1990
     },
     {
-        "title": "Sohni Mahiwal",
+        "title": [
+            "Sohni Mahiwal"
+        ],
         "directors": [
             "Latif Faiziyev",
             "Umesh Mehra"
@@ -10807,7 +11811,9 @@
         "decade": 1980
     },
     {
-        "title": "Y Tu Mamá También",
+        "title": [
+            "Y Tu Mamá También"
+        ],
         "directors": [
             "Alfonso Cuarón"
         ],
@@ -10832,7 +11838,9 @@
         "decade": 2000
     },
     {
-        "title": "The Tuxedo",
+        "title": [
+            "The Tuxedo"
+        ],
         "directors": [
             "Kevin Donovan"
         ],
@@ -10853,7 +11861,9 @@
         "decade": 2000
     },
     {
-        "title": "Prince",
+        "title": [
+            "Prince"
+        ],
         "directors": [
             "Lekh Tandon"
         ],
@@ -10875,7 +11885,9 @@
         "decade": 1960
     },
     {
-        "title": "Pan's Labyrinth",
+        "title": [
+            "Pan's Labyrinth"
+        ],
         "directors": [
             "Guillermo del Toro"
         ],
@@ -10897,7 +11909,9 @@
         "decade": 2000
     },
     {
-        "title": "The Great Gambler",
+        "title": [
+            "The Great Gambler"
+        ],
         "directors": [
             "Shakti Samanta"
         ],
